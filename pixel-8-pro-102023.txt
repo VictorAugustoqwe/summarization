@@ -1,0 +1,400 @@
+Pixel 8 Pro 
+
+Product environmental report
+
+Model G1MNW
+  introduced October 2023
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business 
+
+has evolved to include the manufacturing of electronic 
+
+products, we’ve continually expanded our efforts to improve 
+
+each product’s environmental performance and minimize 
+
+Google’s impact on the world around us.
+
+This report details the environmental performance of the 
+
+Pixel 8 Pro over its full life cycle, from design and 
+
+manufacturing through usage and recycling.
+
+Product highlights
+
+The Pixel 8 Pro is designed with the following key features to help 
+
+reduce its environmental impact: 
+
+UL ECOLOGO Gold1,2
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Designed with recycled aluminum to reduce its carbon footprint4
+
+100% plastic-free packaging5
+
+Product Environmental Report
+
+Pixel 8 Pro
+
+Page 2
+
+Greenhouse Gas 
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic 
+
+products generate GHG emissions that can contribute to rising global 
+
+temperatures. Google conducted a life cycle assessment on this 
+
+product to identify materials and processes that contribute to GHG 
+
+emissions, with the goal of minimizing these emissions.
+
+Estimated GHG emissions 
+
+for Pixel 8 Pro
+
+assuming three 
+years of use:6 79 kg 
+CO2e
+
+Production
+
+Transportation
+
+Customer Use
+
+Recycling
+
+81%
+
+4%
+
+14%
+
+1%
+
+Energy efficiency
+
+The Pixel 8 Pro incorporates power-management software to 
+
+maximize battery-charging efficiency and extend battery life during 
+
+use.
+
+Energy efficiency of 
+
+Pixel 8 Pro
+
+Standby (battery maintenance 
+mode) power7
+
+Annual energy use estimate8
+
+Annual cost of energy estimate
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+0.19 W
+
+0.20 W 
+
+9 kWh
+
+US$1.459
+
+9 kWh
+
+€2.5610
+
+Product Environmental Report
+
+Pixel 8 Pro
+
+Page 3
+
+Material use
+
+Pixel 8 Pro is designed to be light and compact. Minimizing the size 
+
+and weight of the Pixel 8 Pro allows materials to be used more 
+
+efficiently, thereby reducing the energy consumed during production 
+
+and shipping as well as minimizing the amount of packaging.
+
+Materials used in 
+
+Pixel 8 Pro
+
+Total materials:11 
+213 g
+
+65 g
+
+Battery
+
+38 g
+
+Aluminum
+
+27 g
+
+Display
+
+16 g
+
+Other
+
+15 g
+
+Steel
+
+16 g
+
+Glass
+
+17 g
+
+Plastic
+
+19 g
+
+Electronics
+
+Recycled materials
+
+Pixel 8 Pro is made with at least 18% recycled materials based 
+
+on product weight
+
+The aluminum in the housing is 100% recycled content12
+
+Pixel 8 Pro uses 100% recycled tin in the solder of all rigid and 
+
+flexible printed circuit boards, including the main logic board, 
+
+made at the final assembly site13
+
+Battery
+
+Lithium-ion polymer
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as lead, 
+
+mercury, cadmium, and brominated flame retardants that pose 
+
+environmental and health risks. We designed Pixel 8 Pro to meet 
+
+global regulations that restrict harmful substances, including the 
+
+following:
+
+Product Environmental Report
+
+Pixel 8 Pro
+
+Page 4
+
+European RoHS Directive restrictions on lead, mercury, 
+
+cadmium, hexavalent chromium, polybrominated biphenyls 
+
+(PBB), polybrominated diphenyl ethers (PBDE), and four 
+
+different phthalates (DEHP, BBP, DBP, DIBP)
+
+European Battery Directive restrictions on lead, mercury, and 
+
+cadmium in batteries
+
+European Packaging Directive restrictions on lead, mercury, 
+
+cadmium, and hexavalent chromium in packaging
+
+Voluntary substance 
+
+restrictions
+
+Pixel 8 Pro also meets the following voluntary substance restrictions:14 
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Packaging
+
+Packaging for the Pixel 8 Pro uses 100% plastic-free materials.5 The 
+
+greyboard used in the box base and lid is made with 100% recycled 
+
+content. We have designed the Pixel 8 Pro packaging to minimize its 
+
+weight and volume, which helps conserve natural resources and 
+
+allows more devices to be transported in a single shipping container.
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working 
+
+conditions in our operations and in our supply chains are safe, that all 
+
+workers are treated with respect and dignity, and that business 
+
+operations are environmentally responsible and ethically conducted. 
+
+Learn more about our expectations for manufacturing partners in the 
+
+Google Supplier Code of Conduct, our 2022 Supplier Responsibility 
+
+Report, and our Conflict Minerals Policy. 
+
+Learn more
+
+For more information about our environmental sustainability 
+
+initiatives— including case studies, white papers, and blogs—please 
+
+see our Sustainability website and our 2023 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help 
+
+section of our website.
+
+Product Environmental Report
+
+Pixel 8 Pro
+
+Page 5
+
+Endnotes
+
+1.
+
+ECOLOGO® Certified products are certified to ECOLOGO® standards for reduced 
+
+environmental impact. For more information, visit ul.com/el. UL ECOLOGO-registered in the 
+
+US only.
+
+2.
+
+Pixel 8 Pro is designed with approximately 68% recycled content across its plastic parts. 
+
+This does not include plastics in printed circuit boards, labels,  cables, connectors, 
+
+electronic components and modules, optical components, electrostatic discharge (ESD) 
+
+components, electromagnetic interference (EMI) components, films, coatings and 
+
+adhesives.
+
+3.
+
+Google defines its restrictions on harmful substances in the Google Restricted Substances 
+
+Specification.
+
+4.
+
+Carbon footprint reduction claim based on third-party verified life cycle assessment. 
+
+Recycled aluminum is at least 13% of product based on weight.
+
+5.
+
+Based on retail packaging (excluding adhesive materials) as shipped by Google. To meet the 
+
+request of some clients, plastic stickers are applied to some packaging variations.
+
+6.
+
+GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 
+
+requirements and guidelines for conducting life cycle assessments, and include the 
+
+production, transportation, use, and recycling of the product, accessories, and packaging. 
+
+7.
+
+Power measured with phone connected to cellular and WiFi networks in standby mode with 
+
+fully charged battery and attached to the power adapter using the in-box USB-C cable. 
+
+Tested in accordance with a modified version of the U.S. DOE Uniform Test Method for 
+
+Measuring the Energy Consumption of Battery Chargers. Energy consumption patterns may 
+
+vary when adaptive charging is enabled.
+
+8.
+
+Based on average charging of previous generation devices. Actual energy consumption will 
+
+vary by user.
+
+9.
+
+The average residential cost of energy for U.S. households is $0.16 per kWh (source: U.S. 
+
+Energy Information Agency Jun 2023 report).
+
+10.
+
+The average household cost of energy for consumers in the EU-27 was €0.28 per kWh in 
+
+the second half of 2022 (source: Eurostat Statistics Explained).
+
+11.
+
+Product material masses are for the Pixel 8 Pro only, excluding packaging and accessories. 
+
+For the U.S. configuration, an additional 34 g of electronic accessories can be included 
+
+in-box.
+
+12.
+
+Recycled aluminum is at least 13% of product based on weight.
+
+13.
+
+Solder paste is made with multiple materials and contains at least 80% tin. The tin in the 
+
+solder paste is made with 100% recycled content.
+
+14.
+
+Google continues to restrict arsenic content in glass, mercury in displays, and heavy metals 
+
+(lead, cadmium, and mercury) in batteries as listed in Google’s Restricted Substances 
+
+Specification.
+
+Product Environmental Report
+
+Pixel 8 Pro
+
+Page 6
+
+
