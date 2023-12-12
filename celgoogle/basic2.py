@@ -34,7 +34,6 @@ Generate a comprehensive summary that examines the given text and isolates and s
 6. Packaging
 7. Ethical Sourcing and Supplier Code of Conduct
 
-
 """
 
 prompt = PromptTemplate(input_variables=["text"], template=template)
