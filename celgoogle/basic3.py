@@ -56,9 +56,7 @@ sequences = pipeline(
 ending = "Using the information from the text, write a detailed summary for each of the seven categories above. Be sure to include specific data and statistics where available."
 
 for seq in sequences:
-    print(seq)
-    print(ending in seq)
-    if ending in seq:
+    if ending in seq['generated_text']:
         print(f"Result: {(seq['generated_text'].split(ending))[1]}")
     else:
         print(f"Result: {seq['generated_text']}")
