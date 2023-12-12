@@ -65,5 +65,7 @@ for seq in sequences:
         writefilename = 'output2/' + filename.split('.')[0] + '-res.txt' 
         print(result)
         print(writefilename)
+        with open(writefilename, 'w') as file:
+            file.write(result)
     else:
         print(f"Result: {seq['generated_text']}")
