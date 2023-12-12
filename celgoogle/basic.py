@@ -40,10 +40,8 @@ Given the text above, create a summary focusing on the following seven categorie
 prompt = PromptTemplate(input_variables=["text"], template=template)
 
 text = None
-with open('iPhone_15_Pro_and_iPhone_15_Pro_Max_Sept2023.txt', 'r') as file:
+with open(filename, 'r') as file:
      text = file.read()
-text = "nada"
-
 
 poem_prompt = prompt.format(text=text)
 
