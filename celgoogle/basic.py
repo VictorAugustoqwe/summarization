@@ -5,6 +5,11 @@ from langchain.prompts import PromptTemplate
 import sys
 
 
+
+filename = sys.argv[1] if len(sys.argv) > 1 else None
+print('filename - ',filename)
+
+
 model = "meta-llama/Llama-2-7b-chat-hf"
 
 tokenizer = AutoTokenizer.from_pretrained(model)
@@ -34,10 +39,11 @@ Given the text above, create a summary focusing on the following seven categorie
 
 prompt = PromptTemplate(input_variables=["text"], template=template)
 
-# with open('iPhone_15_Pro_and_iPhone_15_Pro_Max_Sept2023.txt', 'r') as poem:
-#     text = poem.read()
+text = None
+with open('iPhone_15_Pro_and_iPhone_15_Pro_Max_Sept2023.txt', 'r') as file:
+     text = file.read()
+text = "nada"
 
-text = "this product is totally recyclable"
 
 poem_prompt = prompt.format(text=text)
 
