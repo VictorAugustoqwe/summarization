@@ -24,7 +24,7 @@ pipeline = transformers.pipeline(
 template = """
 {text}
 
-Generate a comprehensive summary that examines the given text and isolates and summary information pertaining to the following seven categories:
+Using the information from the text, write a detailed summary for each of the following seven categories. Be sure to include specific data and statistics where available:
 
 1. Energy Efficiency
 2. Recycled and Renewable Content
