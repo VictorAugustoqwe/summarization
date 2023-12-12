@@ -24,8 +24,7 @@ pipeline = transformers.pipeline(
 template = """
 {text}
 
-Using the information from the text, write a detailed summary for each of the following seven categories. Be sure to include specific data and statistics where available:
-
+Categories:
 1. Energy Efficiency
 2. Recycled and Renewable Content
 3. Longevity and Durability
@@ -33,6 +32,8 @@ Using the information from the text, write a detailed summary for each of the fo
 5. Material Use
 6. Packaging
 7. Ethical Sourcing and Supplier Code of Conduct
+
+Using the information from the text, write a detailed summary for each of the seven categories above. Be sure to include specific data and statistics where available.
 
 """
 
