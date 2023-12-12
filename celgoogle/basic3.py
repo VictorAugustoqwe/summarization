@@ -18,6 +18,13 @@ files = files[:3]
 for filename in files:
     print('filename - ',filename)
 
+    tokenizer = None
+    pipeline = None
+    template = None
+    prompt = None
+    poem_prompt = None
+    sequences = None
+
     tokenizer = AutoTokenizer.from_pretrained(model)
     pipeline = transformers.pipeline(
         "text-generation",
