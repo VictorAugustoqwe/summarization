@@ -40,8 +40,6 @@ files = ['pixel-2-100417.txt', 'pixel-3xl-100918.txt', 'pixel-4xl-102419.txt', '
 'pixel-3-100918.txt', 'pixel-4a-102020.txt', 'pixel-5a-with-5g-082021.txt', 'pixel-7a-052023.txt', 'pixel-fold-062023.txt',
 'pixel-3a-100918.txt', 'pixel-4a-5g-102020.txt', 'pixel-6-102021.txt', 'pixel-7-pro-102022.txt']
 
-files = files[:3]
-
 
 for filename in files:
     print('filename - ',filename)
