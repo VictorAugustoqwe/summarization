@@ -53,18 +53,7 @@ sequences = pipeline(
     eos_token_id=tokenizer.eos_token_id
 )
 
-ending = """
-Categories:
-1. Energy Efficiency
-2. Recycled and Renewable Content
-3. Longevity and Durability
-4. Emission Reduction Initiatives
-5. Material Use
-6. Packaging
-7. Ethical Sourcing and Supplier Code of Conduct
-
-Using the information from the text, write a detailed summary for each of the seven categories above. Be sure to include specific data and statistics where available.
-"""
+ending = "Using the information from the text, write a detailed summary for each of the seven categories above. Be sure to include specific data and statistics where available."
 
 for seq in sequences:
     if ending in seq:
