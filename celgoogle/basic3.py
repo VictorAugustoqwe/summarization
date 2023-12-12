@@ -5,12 +5,16 @@ from langchain.prompts import PromptTemplate
 import sys
 
 
+model = "meta-llama/Llama-2-7b-chat-hf"
+
+
+files = ['pixel-2-100417.txt', 'pixel-3xl-100918.txt', 'pixel-4xl-102419.txt', 'pixel-6a-072022.txt', 'pixel-8-102023.txt',
+'pixel-2xl-100417.txt', 'pixel-4-102419.txt', 'pixel-5-102020.txt', 'pixel-7-102022.txt', 'pixel-8-pro-102023.txt',
+'pixel-3-100918.txt', 'pixel-4a-102020.txt', 'pixel-5a-with-5g-082021.txt', 'pixel-7a-052023.txt', 'pixel-fold-062023.txt',
+'pixel-3a-100918.txt', 'pixel-4a-5g-102020.txt', 'pixel-6-102021.txt', 'pixel-7-pro-102022.txt']
 
 filename = sys.argv[1] if len(sys.argv) > 1 else None
 print('filename - ',filename)
-
-
-model = "meta-llama/Llama-2-7b-chat-hf"
 
 tokenizer = AutoTokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
@@ -57,6 +61,9 @@ ending = "Using the information from the text, write a detailed summary for each
 
 for seq in sequences:
     if ending in seq['generated_text']:
-        print(f"Result: {(seq['generated_text'].split(ending))[1]}")
+        result = (seq['generated_text'].split(ending))[1]
+        writefilename = 'output2/' + filename.split('.')[0] + '-res.txt' 
+        print(result)
+        print(writefilename)
     else:
         print(f"Result: {seq['generated_text']}")
