@@ -1,0 +1,416 @@
+Pixel 5a with 5G
+
+Product environmental report
+
+    Model G1F8F 
+introduced August 2021
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business has 
+
+evolved to include the manufacturing of electronic products, 
+
+we’ve continually expanded our efforts to improve each product’s 
+
+environmental performance and minimize Google’s impact on 
+
+the world around us. 
+
+This report details the environmental performance of Pixel 5a 
+
+with 5G over its full life cycle, from design and manufacturing 
+
+through usage and recycling.
+
+Product highlights
+
+The Pixel 5a with 5G phone is designed with the following key features to 
+
+help reduce its environmental impact:
+
+EPEAT Gold1
+
+PVC-free3
+
+EPEAT registered 
+
+with Gold rating 
+
+for sustainability1,2
+
+Brominated Flame Retardant (BFR)-free3
+
+98% paper- and fiber-based packaging
+
+Power adapter with Level VI efficiency rating4
+
+Product Environmental Report
+
+Pixel 5a with 5G
+
+Page 2
+
+Greenhouse Gas
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic products  
+
+generate GHG emissions that can contribute to rising global temperatures. 
+
+Google conducted a life cycle assessment on this product to identify 
+
+materials and processes that contribute to GHG emissions, with the goal of  
+
+minimizing these emissions.
+
+Estimated GHG emissions 
+
+for Pixel 5a with 5G
+
+assuming three years 
+of use5: 60 kg CO2e
+
+Production
+
+Transportation
+
+Customer use
+
+ 76%
+
+4%
+
+19%
+
+Recycling
+
+ 1%
+
+Energy efficiency
+
+The Pixel 5a with 5G uses an energy efficient DOE Level VI power adapter4 
+
+and incorporates power-management software to maximize battery-
+
+charging efficiency and extend battery life during use. 
+
+Energy efficiency
+
+of Pixel 5a with 5G
+
+Mode
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+Power adapter average efficiency6
+
+84.6% at 5 V output
+87.4% at 9 V output
+
+83.6% at 5 V output
+86.9% at 9 V output
+
+Power adapter no-load power7
+
+Standby (battery maintenance mode) 
+power8
+
+0.03 W
+
+0.22 W
+
+Annual energy use estimate9
+
+7 kWh
+
+Annual cost of energy estimate
+
+US$0.9810
+
+0.02 W
+
+0.22 W
+
+7 kWh
+
+€1.4911
+
+Product Environmental Report
+
+Pixel 5a with 5G
+
+Page 3
+
+Material use
+
+Pixel 5a with 5G is designed to be light and compact. Minimizing 
+
+the size and weight of the Pixel 5a with 5G allow materials to be 
+
+used more efficiently, thereby reducing the energy consumed 
+
+during production and shipping as well as minimizing the amount 
+
+of packaging.
+
+Materials used 
+
+in Pixel 5a with 5G
+
+Total materials12:
+183 g
+
+64 g
+
+Battery
+
+35 g
+
+Display
+
+8 g
+
+Other
+
+12 g
+
+Steel
+
+13 g
+
+Electronics
+
+19 g
+
+Plastic
+
+32 g
+
+Aluminum
+
+Recycled materials
+
+Pixel 5a with 5G is made with approximately 19% recycled 
+materials based on product weight
+
+Battery
+
+Lithium-ion polymer
+
+Restricted substances
+
+Historically, many electronic devices contained materials such 
+
+as lead, mercury, cadmium, and brominated flame retardants 
+
+that pose environmental and health risks. We designed the 
+
+Pixel 5a with 5G to meet global regulations that restrict harmful 
+
+substances, including the following:
+
+European RoHS Directive restrictions on lead, mercury, 
+
+cadmium, hexavalent chromium, polybrominated biphenyls 
+
+(PBB), polybrominated diphenyl ethers (PBDE), and four 
+
+different phthalates (DEHP, BBP, DBP, DIBP)
+
+Product Environmental Report
+
+Pixel 5a with 5G
+
+Page 4
+
+European Battery Directive restrictions on lead, mercury, and cadmium 
+
+in batteries
+
+European Packaging Directive restrictions on lead, mercury, cadmium, 
+
+and hexavalent chromium in packaging
+
+Voluntary substance 
+
+The Pixel 5a with 5G also meets the following voluntary substance restrictions13:
+
+restrictions
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Packaging
+
+Packaging for the Pixel 5a with 5G uses 98% paper- and fiber-based 
+
+materials. The greyboard used in the box base and lid is made with 100% 
+
+recycled content. We have designed the Pixel 5a with 5G packaging to 
+
+minimize its weight and volume, which helps conserve natural resources and 
+
+allows more devices to be transported in a single shipping container.
+
+Packaging materials 
+
+Material
+
+for Pixel 5a with 5G
+
+(U.S. configuration
+
+retail packaging)
+
+Paper- / fiber-based
+
+Plastic
+
+Total packaging
+
+Mass
+
+128 g
+
+2 g
+
+130 g
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working conditions 
+
+in our operations and in our supply chains are safe, that all workers are treated 
+
+with respect and dignity, and that business operations are environmentally 
+
+responsible and ethically conducted. Learn more about our expectations for 
+
+manufacturing partners in the Google Supplier Code of Conduct, our
+
+ 2020 Responsible Supply Chain Report, and our Conflict Minerals Policy.
+
+Product Environmental Report
+
+Pixel 5a with 5G
+
+Page 5
+
+Learn more
+
+For more information about our environmental sustainability initiatives—
+
+including case studies, white papers, and blogs—please see our 
+
+Sustainability website and our 2020 Environmental Report. 
+
+Learn how to recycle your used device in the Google Store Help section of 
+
+our website.
+
+Endnotes
+
+1. 
+
+EPEAT registered in the US only.
+
+2. 
+
+Pixel 5a with 5G is designed with approximately 14% recycled content across its plastic parts and 
+
+approximately 24% biobased plastic across its plastic parts. This does not include plastics in printed 
+
+circuit boards, labels, cables, connectors, electronic components and modules, optical components, 
+
+electrostatic discharge (ESD) components, electromagnetic interference (EMI) components, films 
+
+coatings and adhesives.
+
+3.  Google defines its restrictions on harmful substances in the Google Restricted Substances 
+
+Specification. 
+
+4. 
+
+Level VI is the highest available efficiency rating for power adapters as defined in the U.S. DOE 
+
+International Efficiency Marking Protocol for External Power Supplies Version 3.0.
+
+5. 
+
+ GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 requirements 
+
+and guidelines for conducting life cycle assessments, and include the production, transportation, use, 
+
+and recycling of the product, accessories, and packaging.                                              
+
+6. 
+
+Average efficiency of power adapter when input and output power is measured at 25%, 50%, 75%, 
+
+and 100% of rated output current and averaged. Tested in accordance with the U.S. DOE Uniform Test 
+
+Method for Measuring the Energy Consumption of External Power Supplies.
+
+7. 
+
+Power measured when the power adapter is plugged into an AC power source without being 
+
+connected to the product. Tested in accordance with the U.S. DOE Uniform Test Method for Measuring 
+
+the Energy Consumption of External Power Supplies.
+
+8. 
+
+Power measured with phone connected to cellular and WiFi networks in standby mode with fully 
+
+charged battery and attached to the power adapter. Tested in accordance with the U.S. DOE Uniform 
+
+Test Method for Measuring the Energy Consumption of Battery Chargers.
+
+9. 
+
+Based on average charging of previous generation devices. Actual energy consumption will vary by 
+
+user.
+
+10. 
+
+The average residential cost of energy for U.S. households is $0.14 per kWh (source: U.S. Energy 
+
+Information Agency May 2021 report).
+
+11. 
+
+The average household cost of energy for consumers in the EU-27 was €0.21 per kWh in the second 
+
+half of 2020 (source: Eurostat Statistics Explained).
+
+12. 
+
+Product material masses are for the Pixel 5a with 5G only, excluding packaging and accessories.  For 
+
+the U.S. configuration, an additional 84 g of electronics accessories can be included in-box.       
+
+13.  Google continues to restrict arsenic content in glass, mercury in displays, and heavy metals (lead, 
+
+cadmium, and mercury) in batteries as listed in Google’s Restricted Substances Specification.
+
+Product Environmental Report
+
+Pixel 5a with 5G
+
+Page 6
+
+

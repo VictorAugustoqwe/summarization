@@ -1,0 +1,390 @@
+Pixel 7a 
+
+Product environmental report
+
+Model GWKK3, G0DZQ
+  introduced May 2023
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business 
+
+has evolved to include the manufacturing of electronic 
+
+products, we’ve continually expanded our efforts to improve 
+
+each product’s environmental performance and minimize 
+
+Google’s impact on the world around us.
+
+This report details the environmental performance of the 
+
+Pixel 7a over its full life cycle, from design and manufacturing 
+
+through usage and recycling.
+
+Product highlights
+
+The Pixel 7a is designed with the following key features to help reduce 
+
+its environmental impact: 
+
+UL Ecologo Gold1,2
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Designed with recycled aluminum to reduce its carbon 
+
+footprint4
+
+99% plastic-free packaging5
+
+Product Environmental Report
+
+Pixel 7a
+
+Page 2
+
+Greenhouse Gas 
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic 
+
+products generate GHG emissions that can contribute to rising global 
+
+temperatures. Google conducted a life cycle assessment on this 
+
+product to identify materials and processes that contribute to GHG 
+
+emissions, with the goal of minimizing these emissions.
+
+Estimated GHG emissions 
+
+for Pixel 7a
+
+assuming three 
+years of use:6 59 kg 
+CO2e
+
+Production
+
+Transportation
+
+Customer Use
+
+Recycling
+
+81%
+
+3%
+
+15%
+
+1%
+
+Energy efficiency
+
+The Pixel 7a incorporates power-management software to maximize 
+
+battery-charging efficiency and extend battery life during use.
+
+Energy efficiency of 
+
+Pixel 7a
+
+Standby (battery maintenance 
+mode) power7
+
+Annual energy use estimate8
+
+Annual cost of energy estimate
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+0.14 W
+
+0.19 W 
+
+7 kWh
+
+US$1.129
+
+7 kWh
+
+€1.7710
+
+Product Environmental Report
+
+Pixel 7a
+
+Page 3
+
+Material use
+
+Pixel 7a is designed to be light and compact. Minimizing the size and 
+
+weight of the Pixel 7a allows materials to be used more efficiently, 
+
+thereby reducing the energy consumed during production and 
+
+shipping as well as minimizing the amount of packaging.
+
+Materials used in 
+
+Pixel 7a
+
+Total materials:11 
+194 g
+
+55 g
+
+Battery
+
+34 g
+
+Display
+
+33 g
+
+Aluminum
+
+14 g
+
+Other
+
+14 g
+
+Steel
+
+18 g
+
+Electronics
+
+26 g
+
+Plastic
+
+Recycled materials
+
+Pixel 7a is made with over 21% recycled materials based on 
+
+product weight
+
+The aluminum in the housing is 100% recycled content12
+
+The Pixel 7a back cover is made with 67% recycled plastics13
+
+Battery
+
+Lithium-ion polymer
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as lead, 
+
+mercury, cadmium, and brominated flame retardants that pose 
+
+environmental and health risks. We designed Pixel 7a to meet global 
+
+regulations that restrict harmful substances, including the following:
+
+Product Environmental Report
+
+Pixel 7a
+
+Page 4
+
+European RoHS Directive restrictions on lead, mercury, 
+
+cadmium, hexavalent chromium, polybrominated biphenyls 
+
+(PBB), polybrominated diphenyl ethers (PBDE), and four 
+
+different phthalates (DEHP, BBP, DBP, DIBP)
+
+European Battery Directive restrictions on lead, mercury, and 
+
+cadmium in batteries
+
+European Packaging Directive restrictions on lead, mercury, 
+
+cadmium, and hexavalent chromium in packaging
+
+Voluntary substance 
+
+restrictions
+
+Pixel 7a also meets the following voluntary substance restrictions:14 
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Packaging
+
+Packaging for the Pixel 7a uses 99% plastic-free materials.5 We have 
+
+designed the Pixel 7a packaging to minimize its weight and volume, 
+
+which helps conserve natural resources and allows more devices to 
+
+be transported in a single shipping container.
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working 
+
+conditions in our operations and in our supply chains are safe, that all 
+
+workers are treated with respect and dignity, and that business 
+
+operations are environmentally responsible and ethically conducted. 
+
+Learn more about our expectations for manufacturing partners in the 
+
+Google Supplier Code of Conduct, our 2022 Supplier Responsibility 
+
+Report, and our Conflict Minerals Policy. 
+
+Learn more
+
+For more information about our environmental sustainability 
+
+initiatives— including case studies, white papers, and blogs—please 
+
+see our Sustainability website and our 2022 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help 
+
+section of our website.
+
+Product Environmental Report
+
+Pixel 7a
+
+Page 5
+
+Endnotes
+
+1.
+
+2.
+
+ UL Ecologo-registered in the US only.
+
+Pixel 7a is designed with approximately 40% recycled content across its plastic parts. 
+
+This does not include plastics in printed circuit boards, labels,  cables, connectors, 
+
+electronic components and modules, optical components, electrostatic discharge (ESD) 
+
+components, electromagnetic interference (EMI) components, films, coatings and 
+
+adhesives.
+
+3.
+
+Google defines its restrictions on harmful substances in the Google Restricted 
+
+Substances Specification.
+
+4.
+
+Carbon footprint reduction claim based on third-party verified life cycle assessment. 
+
+Recycled aluminum is approximately 15% of product based on weight.
+
+5.
+
+Based on retail packaging (excluding adhesive materials) as shipped by Google. To meet 
+
+the request of some clients, plastic stickers are applied to some packaging variations.
+
+6.
+
+GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 
+
+requirements and guidelines for conducting life cycle assessments, and include the 
+
+production, transportation, use, and recycling of the product, accessories, and 
+
+packaging. 
+
+7.
+
+Power measured with phone connected to cellular and WiFi networks in standby mode 
+
+with fully charged battery and attached to the power adapter. Tested in accordance with 
+
+the U.S. DOE Uniform Test Method for Measuring the Energy Consumption of Battery 
+
+Chargers. Energy consumption patterns may vary when adaptive charging is enabled.
+
+8.
+
+Based on average charging of previous generation devices. Actual energy consumption 
+
+will vary by user.
+
+9.
+
+The average residential cost of energy for U.S. households is $0.16 per kWh (source: U.S. 
+
+Energy Information Agency Feb 2023 report).
+
+10.
+
+The average household cost of energy for consumers in the EU-27 was €0.25 per kWh in 
+
+the first half of 2022 (source: Eurostat Statistics Explained).
+
+11.
+
+Product material masses are for the Pixel 7a only, excluding packaging and accessories. 
+
+For the U.S. configuration, an additional 34 g of electronic accessories can be included 
+
+in-box.
+
+12.
+
+Recycled aluminum is at least 15% of the product based on weight.
+
+13.
+
+The recycled plastic in the back cover accounts for approximately 39% of the product 
+
+plastic based on product weight. This does not include plastics in printed circuit boards, 
+
+labels,  cables, connectors, electronic components and modules, optical components, 
+
+electrostatic discharge (ESD) components, electromagnetic interference (EMI) 
+
+components, films, coatings and adhesives.
+
+14.
+
+Google continues to restrict arsenic content in glass, mercury in displays, and heavy 
+
+metals (lead, cadmium, and mercury) in batteries as listed in Google’s Restricted 
+
+Substances Specification.
+
+Product Environmental Report
+
+Pixel 7a
+
+Page 6
+
+

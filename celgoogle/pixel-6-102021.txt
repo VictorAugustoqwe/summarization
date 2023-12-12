@@ -1,0 +1,386 @@
+Pixel 6
+
+Product environmental report
+
+Model G9S9B, GB7N6 
+ introduced October 2021
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business has 
+
+evolved to include the manufacturing of electronic products, 
+
+we’ve continually expanded our efforts to improve each product’s 
+
+environmental performance and minimize Google’s impact on 
+
+the world around us. 
+
+This report details the environmental performance of the Pixel 
+
+6 over its full life cycle, from design and manufacturing through 
+
+usage and recycling.
+
+Product highlights
+
+The Pixel 6 phone is designed with the following key features to help reduce 
+
+its environmental impact: 
+
+EPEAT Gold1
+
+PVC-free3
+
+EPEAT registered 
+
+with Gold rating 
+
+for sustainability1,2
+
+Brominated Flame Retardant (BFR)-free3
+
+The aluminum in the housing is 100% recycled content4
+
+98% paper- and fiber-based packaging
+
+Product Environmental Report
+
+Pixel 6
+
+Page 2
+
+Greenhouse Gas
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic products  
+
+generate GHG emissions that can contribute to rising global temperatures. 
+
+Google conducted a life cycle assessment on this product to identify 
+
+materials and processes that contribute to GHG emissions, with the goal of  
+
+minimizing these emissions.
+
+Estimated GHG emissions 
+
+Pixel 6
+
+assuming three years 
+of use5: 85 kg CO2e
+
+Production
+
+Transportation
+
+Customer use
+
+Recycling
+
+81%
+
+4%
+
+14%
+
+1%
+
+Energy efficiency
+
+The Pixel 6 incorporates power-management software to maximize battery-
+
+charging efficiency and extend battery life during use. 
+
+Energy efficiency
+
+Mode
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+of Pixel 6
+
+Standby (battery maintenance mode) 
+power6
+
+0.32 W
+
+0.37 W
+
+Annual energy use estimate7
+
+8 kWh
+
+Annual cost of energy estimate
+
+US$1.128
+
+8 kWh
+
+€1.719
+
+Product Environmental Report
+
+Pixel 6
+
+Page 3
+
+Material use
+
+Pixel 6 is designed to be light and compact. Minimizing the size and 
+
+weight of the Pixel 6 allow materials to be used more efficiently, 
+
+thereby reducing the energy consumed during production and 
+
+shipping as well as minimizing the amount of packaging.
+
+Materials used 
+
+in Pixel 6
+
+Total materials10:
+207 g
+
+59 g
+
+Battery
+
+34 g
+
+Aluminum
+
+33 g
+
+Display
+
+Recycled materials
+
+The aluminum in the housing 
+is 100% recycled content4
+
+11 g
+
+Steel
+
+16 g
+
+Glass
+
+17 g
+
+Plastic
+
+17 g
+
+Other
+
+20 g
+
+Electronics
+
+Battery
+
+Lithium-ion polymer
+
+Image simulated for 
+
+illustration purposes 
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as 
+
+lead, mercury, cadmium, and brominated flame retardants that 
+
+pose environmental and health risks. We designed Pixel 6 to meet 
+
+global regulations that restrict harmful substances, including the 
+
+following:
+
+Product Environmental Report
+
+Pixel 6
+
+Page 4
+
+European RoHS Directive restrictions on lead, mercury, cadmium, 
+
+hexavalent chromium, polybrominated biphenyls (PBB), polybrominated 
+
+diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, DBP, 
+
+DIBP)
+
+European Battery Directive restrictions on lead, mercury, and cadmium 
+
+in batteries
+
+European Packaging Directive restrictions on lead, mercury, cadmium, 
+
+and hexavalent chromium in packaging
+
+Voluntary substance 
+
+Pixel 6 also meets the following voluntary substance restrictions11: 
+
+restrictions
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Packaging
+
+Packaging for the Pixel 6 uses 98% paper- and fiber-based materials. The 
+
+greyboard used in the box base and lid is made with 100% recycled content. 
+
+We have designed the Pixel 6 packaging to minimize its weight and volume, 
+
+which helps conserve natural resources and allows more devices to be 
+
+transported in a single shipping container.
+
+Packaging materials 
+
+Material
+
+for Pixel 6
+
+(U.S. configuration
+
+retail packaging)
+
+Paper- / fiber-based
+
+Plastic
+
+Total packaging
+
+Mass
+
+104 g
+
+2 g
+
+106 g
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working
+
+conditions in our operations and in our supply chains are safe, that all
+
+workers are treated with respect and dignity, and that business operations
+
+are environmentally responsible and ethically conducted. Learn more about 
+
+our expectations for manufacturing partners in the Google Supplier Code 
+
+of Conduct, our 2020 Responsible Supply Chain Report, and our Conflict 
+
+Minerals Policy. 
+
+Product Environmental Report
+
+Pixel 6
+
+Page 5
+
+Learn more
+
+For more information about our environmental sustainability initiatives—
+
+including case studies, white papers, and blogs—please see our 
+
+Sustainability website and our 2020 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help section of 
+
+our website.
+
+Endnotes
+
+1. 
+
+ EPEAT registered in the US only.
+
+2. 
+
+Pixel 6 is designed with approximately 45% recycled content across its plastic parts.  This does 
+
+not include plastics in printed circuit boards, labels, cables, connectors, electronic components 
+
+and modules, optical components, electrostatic discharge (ESD) components, electromagnetic 
+
+interference (EMI) components, films, coatings and adhesives.
+
+3.  Google defines its restrictions on harmful substances in the Google Restricted Substances 
+
+Specification.
+
+4. 
+
+Recycled aluminum (in the housing and other recycled aluminum components) is approximately 14% of 
+
+product based on weight.
+
+5.  GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 requirements 
+
+and guidelines for conducting life cycle assessments, and include the production, transportation, use, 
+
+and recycling of the product, accessories, and packaging.
+
+6. 
+
+Power measured with phone connected to cellular and WiFi networks in standby mode with fully 
+
+charged battery and attached to the power adapter. Tested in accordance with the U.S. DOE Uniform 
+
+Test Method for Measuring the Energy Consumption of Battery Chargers.
+
+7. 
+
+Based on average charging of previous generation devices. Actual energy consumption will  
+
+vary by user.
+
+8. 
+
+The average residential cost of energy for U.S. households is $0.14 per kWh (source: U.S. Energy 
+
+Information Agency May 2021 report).
+
+9. 
+
+The average household cost of energy for consumers in the EU-27 was €0.21 per kWh in the second 
+
+half of 2020 (source: Eurostat Statistics Explained).
+
+10.  Product material masses are for the Pixel 6 only, excluding packaging and accessories.  For the U.S. 
+
+configuration, an additional 34 g of electronics accessories can be included in-box.
+
+11.  Google continues to restrict arsenic content in glass, mercury in displays, and heavy metals (lead, 
+
+cadmium, and mercury) in batteries as listed in Google’s Restricted Substances Specification.
+
+Product Environmental Report
+
+Pixel 6
+
+Page 6
+
+

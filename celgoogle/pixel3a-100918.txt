@@ -1,0 +1,381 @@
+Google Pixel 3a
+Product environmental report
+
+Environmental
+
+Sustainability
+
+at Google
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business 
+
+has evolved to include the manufacturing of electronic 
+
+products, we’ve continually expanded our efforts to 
+
+improve each product’s environmental performance
+
+and minimize Google’s impact on the world around us.
+
+This report details the environmental performance of 
+
+Google Pixel 3a over its full life cycle, from design and
+
+manufacturing through usage and recycling.
+
+Product highlights
+
+The Pixel 3a phone is designed with the following key features to help 
+
+EPEAT registered 
+
+with Gold rating 
+
+for sustainability1
+
+reduce its environmental impact:
+
+Mercury-free LED-backlit display
+
+Arsenic-free glass
+
+PVC-free
+
+Brominated flame retardant-free
+
+94% paper and fiber-based packaging
+
+Power adapter with Level VI efficiency rating
+
+Product Environmental ReportPage 2Google Pixel 3a, Model G020X(E~H)Greenhouse gas
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic products 
+
+generate GHG emissions that can contribute to rising global temperatures. 
+
+Google conducts a life cycle assessment on products to identify materials 
+
+and processes that contribute to GHG emissions, with the goal of
+
+minimizing these emissions.
+
+Estimated GHG
+
+Emissions for Pixel 3a2
+
+Total GHG emissions over
+
+three-year life cycle:
+45 kg CO2e
+
+Production
+
+Transportation
+
+Customer use
+
+Recycling
+
+74%
+
+6%
+
+19%
+
+1%
+
+Energy efficiency
+
+Pixel 3a uses an energy efficient DOE Level VI power adapter3  and
+
+incorporates power-management software to maximize battery-charging 
+
+efficiency and extend battery life during use.
+
+Energy efficiency
+
+Mode
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+of Pixel 3a
+
+Power adapter average efficiency4
+
+83.5% at 5 V output
+
+82.5% at 5 V output
+
+86.0% at 9 V output
+
+85.9% at 9 V output
+
+Power adapter no-load power5
+
+0.02 W
+
+0.02 W
+
+Standby power (battery maintenance mode)6
+
+0.42 W
+
+0.55 W
+
+Annual energy use estimate7
+
+5 kWh/y
+
+6 kWh/y
+
+Annual cost of energy estimate
+
+US$0.658
+
+€1.209
+
+Product Environmental ReportPage 3Google Pixel 3a, Model G020X(E~H)Material use
+
+Pixel 3a is designed to be light and compact. Minimizing the size and weight 
+
+of the Pixel 3a allows materials to be used more efficiently, thereby reducing 
+
+the energy consumed during production and shipping as well as minimizing 
+
+the amount of packaging.
+
+Materials used
+
+in Pixel 3a
+
+Total materials:
+144 g10
+
+11 g
+
+Electronics
+
+12 g
+
+Display
+
+14 g
+
+Steel
+
+15 g
+
+Aluminum
+
+5 g
+
+Other
+
+42 g
+
+Battery
+
+30 g
+
+Plastic
+
+15 g
+
+Glass
+
+Pixel 3a battery
+
+Lithium-ion polymer
+
+Free of cadmium, lead, and mercury
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as
+
+lead, mercury, cadmium, and brominated flame retardants that pose
+
+environmental and health risks. We designed Pixel 3a to meet global
+
+regulations that restrict harmful substances, including the following:
+
+European RoHS Directive restrictions on lead, mercury, cadmium,
+
+hexavalent chromium, polybrominated biphenyls (PBB), and
+
+polybrominated diphenyl ethers (PBDE)
+
+European Battery Directive restrictions on lead, mercury, and
+
+cadmium in batteries
+
+European Packaging Directive restrictions on lead, mercury,
+
+cadmium, and hexavalent chromium in packaging
+
+Product Environmental ReportPage 4Google Pixel 3a, Model G020X(E~H)Voluntary substance
+
+Pixel 3a also meets the following voluntary substance restrictions:
+
+restrictions
+
+Mercury-free LED-backlit display
+
+Arsenic-free glass
+
+PVC-free
+
+Brominated flame retardant–free
+
+Packaging
+
+Packaging for Pixel 3a uses 94% paper and fiber-based materials.
+
+The chipboard material used in the box base and lid is made with 100% 
+
+recycled content. We have designed the Pixel 3a packaging to minimize
+
+its weight and volume, which helps conserve natural resources and allows 
+
+more devices to be transported in a single shipping container.
+
+Packaging materials
+
+Material
+
+for Pixel 3a
+
+(U.S. configuration
+
+retail packaging)
+
+Paper
+
+Plastic
+
+Total packaging
+
+Weight
+
+185 g
+
+12 g
+
+197 g
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working 
+
+conditions in our operations and in our supply chains are safe, that all 
+
+workers are treated with respect and dignity, and that business operations 
+
+are environmentally responsible and ethically conducted. Learn more about 
+
+our expectations for manufacturing partners in the Google Supplier Code 
+
+of Conduct, our 2018 Responsible Supply Chain Report, and our Conflict 
+
+Minerals Policy.
+
+Product Environmental ReportPage 5Google Pixel 3a, Model G020X(E~H)Learn more
+
+For more information about our environmental sustainability initiatives—
+
+including case studies, white papers, and blogs—please see our Sustainability 
+
+website and our 2018 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help section
+
+of our website.
+
+Endnotes
+
+1.
+
+This product is EPEAT registered in the United States only.
+
+2.
+
+GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 requirements
+
+and guidelines for conducting life cycle assessments, and include the production, transportation, use,
+
+and recycling of the product, accessories, and packaging. 
+
+3.
+
+Level VI is the highest available efficiency rating for power adapters as defined in the International
+
+Efficiency Marking Protocol for External Power Supplies Version 3.0. 
+
+4.
+
+Average efficiency of power adapter when input and output power is measured at 25%, 50%, 75%, and 
+
+100% of rated output current and averaged. Tested in accordance with the U.S. Department of Energy 
+
+Uniform Test Method for Measuring the Energy Consumption of External Power Supplies. 
+
+5.
+
+Power measured when the power adapter is plugged into an AC power source without being connected
+
+to the product. Tested in accordance with the U.S. DOE Uniform Test Method for Measuring the Energy 
+
+Consumption of External Power Supplies. 
+
+6.
+
+Power measured with phone connected to cellular and WiFi networks in standby mode with fully charged 
+
+battery and attached to the power adapter. Tested in accordance with the U.S. DOE Uniform Test Method 
+
+for Measuring the Energy Consumption of Battery Chargers.
+
+7.
+
+Based on average charging of previous generation devices. Actual energy consumption will vary by user.
+
+8.
+
+The average residential cost of energy for U.S. households is $0.13 per kWh (source: U.S. Energy
+
+Information Agency Feb 2019 report). 
+
+9.
+
+The average household cost of energy for consumers in the EU-28 was €0.20 per kWh in the first
+
+half of 2018 (source: Eurostat Statistics Explained).
+
+10.
+
+Product material weights are for Google Pixel 3a only. For the U.S. configuration, an additional 92 g
+
+of electronic accessories can be included in-box.
+
+Product Environmental ReportPage 6Google Pixel 3a, Model G020X(E~H) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

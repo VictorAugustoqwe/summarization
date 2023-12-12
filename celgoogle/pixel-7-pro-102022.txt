@@ -1,0 +1,391 @@
+Pixel 7 Pro 
+
+Product environmental report
+
+Model GE2AE
+  introduced October 2022
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business 
+
+has evolved to include the manufacturing of electronic 
+
+products, we’ve continually expanded our efforts to improve 
+
+each product’s environmental performance and minimize 
+
+Google’s impact on the world around us.
+
+This report details the environmental performance of the 
+
+Pixel 7 Pro over its full life cycle, from design and 
+
+manufacturing through usage and recycling.
+
+Product highlights
+
+The Pixel 7 Pro is designed with the following key features to help 
+
+reduce its environmental impact: 
+
+EPEAT registered 
+
+with Gold rating 
+
+for sustainability1,2
+
+EPEAT and UL ECOLOGO Gold1
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Designed with recycled aluminum to reduce its carbon 
+
+footprint4
+
+99% plastic-free packaging5
+
+Product Environmental Report
+
+Pixel 7 Pro
+
+Page 2
+
+Greenhouse Gas 
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic 
+
+products generate GHG emissions that can contribute to rising global 
+
+temperatures. Google conducted a life cycle assessment on this 
+
+product to identify materials and processes that contribute to GHG 
+
+emissions, with the goal of minimizing these emissions.
+
+Estimated GHG emissions 
+
+for Pixel 7 Pro
+
+assuming three years 
+of use:6 85 kg CO2e
+
+Production
+
+Transportation
+
+Customer Use
+
+Recycling
+
+84%
+
+3%
+
+12%
+
+1%
+
+Energy efficiency
+
+The Pixel 7 Pro incorporates power-management software to maximize 
+
+battery-charging efficiency and extend battery life during use.
+
+Energy efficiency of 
+
+Pixel 7 Pro
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+Standby (battery maintenance 
+mode) power7
+
+0.16 W
+
+0.24 W 
+
+Annual energy use estimate8
+
+8 kWh
+
+8 kWh
+
+Annual cost of energy estimate
+
+US$1.239
+
+€1.9010
+
+Product Environmental Report
+
+Pixel 7 Pro
+
+Page 3
+
+Material use
+
+Pixel 7 Pro is designed to be light and compact. Minimizing the size 
+
+and weight of the Pixel 7 Pro allows materials to be used more 
+
+efficiently, thereby reducing the energy consumed during production 
+
+and shipping as well as minimizing the amount of packaging.
+
+Materials used in 
+
+Pixel 7 Pro
+
+Total materials:11 
+212 g
+
+65 g
+
+Battery
+
+33 g
+
+Aluminum
+
+26 g
+
+Display
+
+22 g
+
+Other
+
+15 g
+
+Steel
+
+15 g
+
+Plastic
+
+17 g
+
+Glass
+
+19 g
+
+Electronics
+
+Recycled materials
+
+Pixel 7 Pro is made with over 19% recycled materials based on 
+
+product weight
+
+The aluminum in the housing and camera bar is 100% 
+
+recycled content12
+
+Battery
+
+Lithium-ion polymer
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as lead, 
+
+mercury, cadmium, and brominated flame retardants that pose 
+
+environmental and health risks. We designed Pixel 7 Pro to meet 
+
+global regulations that restrict harmful substances, including the 
+
+following:
+
+Product Environmental Report
+
+Pixel 7 Pro
+
+Page 4
+
+European RoHS Directive restrictions on lead, mercury, 
+
+cadmium, hexavalent chromium, polybrominated biphenyls 
+
+(PBB), polybrominated diphenyl ethers (PBDE), and four 
+
+different phthalates (DEHP, BBP, DBP, DIBP)
+
+European Battery Directive restrictions on lead, mercury, and 
+
+cadmium in batteries
+
+European Packaging Directive restrictions on lead, mercury, 
+
+cadmium, and hexavalent chromium in packaging
+
+Voluntary substance 
+
+restrictions
+
+Pixel 7 Pro also meets the following voluntary substance restrictions:13 
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Packaging
+
+Packaging for the Pixel 7 Pro uses 99% plastic-free materials.5 The 
+
+greyboard in the box base and lid is made with 100% recycled 
+
+content. We have designed the Pixel 7 Pro packaging to minimize its 
+
+weight and volume, which helps conserve natural resources and 
+
+allows more devices to be transported in a single shipping container.
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working 
+
+conditions in our operations and in our supply chains are safe, that all 
+
+workers are treated with respect and dignity, and that business 
+
+operations are environmentally responsible and ethically conducted. 
+
+Learn more about our expectations for manufacturing partners in the 
+
+Google Supplier Code of Conduct, our 2022 Supplier Responsibility 
+
+Report, and our Conflict Minerals Policy. 
+
+Product Environmental Report
+
+Pixel 7 Pro
+
+Page 5
+
+Learn more
+
+For more information about our environmental sustainability 
+
+initiatives— including case studies, white papers, and blogs—please 
+
+see our Sustainability website and our 2022 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help 
+
+section of our website.
+
+Endnotes
+
+1.
+
+2.
+
+EPEAT and UL registered in the US only.
+
+Pixel 7 Pro is designed with approximately 65% recycled content across its plastic parts. 
+
+This does not include plastics in printed circuit boards, labels, cables, connectors, 
+
+electronic components and modules, optical components, electrostatic discharge (ESD) 
+
+components, electromagnetic interference (EMI) components, films, coatings and 
+
+adhesives.
+
+3.
+
+Google defines its restrictions on harmful substances in the Google Restricted 
+
+Substances Specification.
+
+4.
+
+Carbon footprint reduction claim based on third-party verified life cycle assessment. 
+
+Recycled aluminum in the housing is approximately 11% of product based on weight.
+
+5.
+
+6.
+
+Based on U.S. retail packaging weight with adhesive materials excluded.
+
+GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 
+
+requirements and guidelines for conducting life cycle assessments, and include the 
+
+production, transportation, use, and recycling of the product, accessories, and 
+
+packaging. 
+
+7.
+
+Power measured with phone connected to cellular and WiFi networks in standby mode 
+
+with fully charged battery and attached to the power adapter. Tested in accordance with 
+
+a modified version of the U.S. DOE Uniform Test Method for Measuring the Energy 
+
+Consumption of Battery Chargers. Energy consumption patterns may vary when 
+
+adaptive charging is enabled.
+
+8.
+
+Based on average charging of previous generation devices. Actual energy consumption 
+
+will vary by user.
+
+9.
+
+The average residential cost of energy for U.S. households is $0.15 per kWh (source: U.S. 
+
+Energy Information Agency June 2022 report).
+
+10.
+
+The average household cost of energy for consumers in the EU-27 was €0.24 per kWh in 
+
+the second half of 2021 (source: Eurostat Statistics Explained).
+
+11.
+
+Product material masses are for the Pixel 7 Pro only, excluding packaging and 
+
+accessories. For the U.S. configuration, an additional 34 g of electronic accessories can 
+
+be included in-box.
+
+12.
+
+Recycled aluminum is at least 11% of product based on weight.
+
+13.
+
+Google continues to restrict arsenic content in glass, mercury in displays, and heavy 
+
+metals (lead, cadmium, and mercury) in batteries as listed in Google’s Restricted 
+
+Substances Specification.
+
+Product Environmental Report
+
+Pixel 7 Pro
+
+Page 6
+
+

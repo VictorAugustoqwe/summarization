@@ -1,0 +1,387 @@
+Pixel 6a 
+
+Product environmental report
+
+Model GB62Z, GX7AS
+  introduced July 2022
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business 
+
+has evolved to include the manufacturing of electronic 
+
+products, we’ve continually expanded our efforts to improve 
+
+each product’s environmental performance and minimize 
+
+Google’s impact on the world around us.
+
+This report details the environmental performance of the 
+
+Pixel 6a over its full life cycle, from design and manufacturing 
+
+through usage and recycling.
+
+Product highlights
+
+The Pixel 6a is designed with the following key features to help reduce 
+
+its environmental impact: 
+
+EPEAT Gold1
+
+PVC-free3
+
+EPEAT registered 
+
+with Gold rating 
+
+for sustainability1,2
+
+Brominated Flame Retardant (BFR)-free3
+
+Designed with recycled aluminum to reduce its carbon 
+
+footprint4
+
+95% plastic-free packaging5
+
+Product Environmental Report
+
+Pixel 6a
+
+Page 2
+
+Greenhouse Gas 
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic 
+
+products generate GHG emissions that can contribute to rising global 
+
+temperatures. Google conducted a life cycle assessment on the Pixel 
+
+6a to identify materials and processes that contribute to GHG 
+
+emissions, with the goal of minimizing these emissions.
+
+Estimated GHG emissions 
+
+for Pixel 6a
+
+assuming three years 
+of use:6 65 kg CO2e
+
+Production
+
+Transportation
+
+Customer Use
+
+Recycling
+
+81%
+
+3%
+
+15%
+
+1%
+
+Energy efficiency
+
+The Pixel 6a incorporates power-management software to maximize 
+
+battery-charging efficiency and extend battery life during use.
+
+Energy efficiency of 
+
+Pixel 6a
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+Standby (battery maintenance mode) 
+power7
+
+0.23 W
+
+0.16 W 
+
+Annual energy use estimate8
+
+7 kWh
+
+7 kWh
+
+Annual cost of energy estimate
+
+US$0.989
+
+€1.6810
+
+Product Environmental Report
+
+Pixel 6a
+
+Page 3
+
+Material use
+
+Pixel 6a is designed to be light and compact. Minimizing the size and 
+
+weight of the Pixel 6a allows materials to be used more efficiently, 
+
+thereby reducing the energy consumed during production and 
+
+shipping as well as minimizing the amount of packaging.
+
+Materials used in 
+
+Pixel 6a
+
+Total materials:11 
+178 g
+
+Recycled materials
+
+7 g
+
+Other
+
+12 g
+
+Steel
+
+15 g
+
+Electronics
+
+25 g
+
+Plastic
+
+56 g
+
+Battery
+
+32 g
+
+Display
+
+31 g
+
+Aluminum
+
+Pixel 6a is made with approximately 20% 
+
+recycled materials based on product 
+
+weight
+
+The aluminum in the housing is 100% 
+
+recycled content12
+
+Image simulated for 
+
+illustration purposes 
+
+Battery
+
+Lithium-ion polymer
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as lead, 
+
+mercury, cadmium, and brominated flame retardants that pose 
+
+environmental and health risks. We designed Pixel 6a to meet global 
+
+regulations that restrict harmful substances, including the following:
+
+Product Environmental Report
+
+Pixel 6a
+
+Page 4
+
+European RoHS Directive restrictions on lead, mercury, 
+
+cadmium, hexavalent chromium, polybrominated biphenyls 
+
+(PBB), polybrominated diphenyl ethers (PBDE), and four 
+
+different phthalates (DEHP, BBP, DBP, DIBP)
+
+European Battery Directive restrictions on lead, mercury, and 
+
+cadmium in batteries
+
+European Packaging Directive restrictions on lead, mercury, 
+
+cadmium, and hexavalent chromium in packaging
+
+Voluntary substance 
+
+restrictions
+
+Pixel 6a also meets the following voluntary substance restrictions:13 
+
+PVC-free3
+
+Brominated Flame Retardant (BFR)-free3
+
+Packaging
+
+Packaging for the Pixel 6a uses 95% plastic-free materials.5 We have 
+
+designed the Pixel 6a packaging to minimize its weight and volume, 
+
+which helps conserve natural resources and allows more devices to 
+
+be transported in a single shipping container.
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working 
+
+conditions in our operations and in our supply chains are safe, that all 
+
+workers are treated with respect and dignity, and that business 
+
+operations are environmentally responsible and ethically conducted. 
+
+Learn more about our expectations for manufacturing partners in the 
+
+Google Supplier Code of Conduct, our 2021 Responsible Supply Chain 
+
+Report, and our Conflict Minerals Policy. 
+
+Learn more
+
+For more information about our environmental sustainability 
+
+initiatives— including case studies, white papers, and blogs—please 
+
+see our Sustainability website and our 2021 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help 
+
+section of our website.
+
+Product Environmental Report
+
+Pixel 6a
+
+Page 5
+
+Endnotes
+
+1.
+
+2.
+
+EPEAT registered in the US only.
+
+Pixel 6a is designed with approximately 14% recycled content across its plastic parts. This 
+
+does not include plastics in printed circuit boards, labels, cables, connectors, electronic 
+
+components and modules, optical components, electrostatic discharge (ESD) 
+
+components, electromagnetic interference (EMI) components, films, coatings and 
+
+adhesives.
+
+3.
+
+Google defines its restrictions on harmful substances in the Google Restricted 
+
+Substances Specification.
+
+4.
+
+Carbon footprint reduction claim based on third-party verified life cycle assessment. 
+
+Recycled aluminum in the housing is approximately 12% of the product based on weight.
+
+5.
+
+6.
+
+Based on U.S. retail packaging weight with adhesive materials excluded.
+
+GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 
+
+requirements and guidelines for conducting life cycle assessments, and include the 
+
+production, transportation, use, and recycling of the product, accessories, and 
+
+packaging. 
+
+7.
+
+Power measured with phone connected to cellular and WiFi networks in standby mode 
+
+with fully charged battery and attached to the power adapter. Tested in accordance with 
+
+the U.S. DOE Uniform Test Method for Measuring the Energy Consumption of Battery 
+
+Chargers.
+
+8.
+
+Based on average charging of previous generation devices. Actual energy consumption 
+
+will vary by user.
+
+9.
+
+The average residential cost of energy for U.S. households is $0.14 per kWh (source: U.S. 
+
+Energy Information Agency Feb 2022 report).
+
+10.
+
+The average household cost of energy for consumers in the EU-27 was €0.24 per kWh in 
+
+the second half of 2021 (source: Eurostat Statistics Explained).
+
+11.
+
+Product material masses are for the Pixel 6a only, excluding packaging and accessories. 
+
+For the U.S. configuration, an additional 35 g of electronic accessories can be included 
+
+in-box.
+
+12.
+
+Recycled aluminum is approximately 77% of the housing based on weight.
+
+13.
+
+Google continues to restrict arsenic content in glass, mercury in displays, and heavy 
+
+metals (lead, cadmium, and mercury) in batteries as listed in Google’s Restricted 
+
+Substances Specification.
+
+Product Environmental Report
+
+Pixel 6a
+
+Page 6
+
+

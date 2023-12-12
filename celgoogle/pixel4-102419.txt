@@ -1,0 +1,408 @@
+Pixel 4
+
+Product environmental report
+
+Model G020I,  
+introduced October 24, 2019
+
+Environmental 
+
+sustainability 
+
+at Google 
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business has 
+
+evolved to include the manufacturing of electronic products, 
+
+we’ve continually expanded our efforts to improve each product’s 
+
+environmental performance and minimize Google’s impact on 
+
+the world around us. 
+
+This report details the environmental performance of the Pixel 4 
+
+over its full life cycle, from design and manufacturing through 
+
+usage and recycling.
+
+Product highlights
+
+The Pixel 4 is designed with the following key features to help reduce its 
+
+environmental impact1: 
+
+EPEAT Gold
+
+Mercury-free LED-backlit display
+
+EPEAT registered 
+
+with Gold rating 
+
+for sustainability2
+
+Arsenic-free glass
+
+PVC-free
+
+Brominated flame retardant-free
+
+94% paper and fiber-based packaging
+
+Power adapter with Level VI efficiency rating
+
+Product Environmental Report
+
+Pixel 4
+
+Page 2
+
+Greenhouse Gas
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic products  
+
+generate GHG emissions that can contribute to rising global temperatures. 
+
+Google conducts a life cycle assessment on products to identify materials 
+
+and processes that contribute to GHG emissions, with the goal of  
+
+minimizing these emissions.
+
+Estimated GHG Emissions 
+
+for Pixel 43
+
+Total GHG emissions 
+
+assuming three years of use:
+75 kg CO2 e
+
+Production
+
+Transportation
+
+Customer use
+
+Recycling
+
+85%
+
+4%
+
+10%
+
+1%
+
+Energy efficiency
+
+The Pixel 4 uses an energy efficient DOE Level VI power adapter4 and 
+
+incorporates power-management software to maximize battery-charging 
+
+efficiency and extend battery life during use.
+
+Energy efficiency
+
+of Pixel 4
+
+Mode
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+Power adapter average efficiency5
+
+83.5% at 5 V output
+86.0% at 9 V output
+
+82.5% at 5 V output
+85.9% at 9 V output
+
+Power adapter no-load power6
+
+0.02 W
+
+Standby (battery maintenance mode) 
+power7
+
+0.45 W
+
+Annual energy use estimate8
+
+5 kWh
+
+Annual cost of energy estimate
+
+US$0.659
+
+0.02 W
+
+0.46 W
+
+6 kWh
+
+€1.3210
+
+Product Environmental Report
+
+Pixel 4
+
+Page 3
+
+Material use
+
+The Pixel 4 is designed to be light and compact. Minimizing the size and 
+
+weight of the Pixel 4 allows materials to be used more efficiently, thereby 
+
+reducing the energy consumed during production and shipping as well as 
+
+minimizing the amount of packaging.
+
+Materials used 
+
+in Pixel 4
+
+Total materials:
+162 g11
+
+38 g
+
+Battery
+
+33 g
+
+Plastic
+
+24 g
+
+Glass
+
+8 g
+
+Display
+
+10 g
+
+Other
+
+11 g
+
+Electronics
+
+16 g
+
+Steel
+
+22 g
+
+Aluminum
+
+Battery
+
+Lithium-ion polymer
+
+Free of cadmium, lead, and mercury1
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as 
+
+lead, mercury, cadmium, and brominated flame retardants that pose
+
+environmental and health risks. We designed the Pixel 4 to meet global 
+
+regulations that restrict harmful substances, including the following:
+
+European RoHS Directive restrictions on lead, mercury, cadmium, 
+hexavalent chromium, polybrominated biphenyls (PBB), polybrominated 
+diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, DBP, 
+DIBP)
+
+European Battery Directive restrictions on lead, mercury, and cadmium 
+
+batteries
+
+European Packaging Directive restrictions on lead, mercury, cadmium, 
+
+and hexavalent chromium in packaging
+
+Product Environmental Report
+
+Pixel 4
+
+Page 4
+
+Voluntary substance 
+
+The Pixel 4 also meets the following voluntary substance restrictions1: 
+
+restrictions
+
+Mercury-free LED-backlit display
+
+Arsenic-free glass
+
+PVC-free
+
+Brominated flame retardant-free
+
+Packaging
+
+Packaging for the Pixel 4 uses 94% paper and fiber-based materials. The 
+
+chipboard material used in the box base and lid is made with 100% recycled 
+
+content. We have designed the Pixel 4 packaging to minimize its weight and 
+
+volume, which helps conserve natural resources and allows more devices to 
+
+be transported in a single shipping container.
+
+Packaging materials 
+
+Material
+
+for Pixel 4
+
+(U.S. configuration
+
+retail packaging)
+
+Paper / fiber-based
+
+Plastic
+
+Total packaging
+
+Mass
+
+227 g
+
+13 g
+
+240 g
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working
+
+conditions in our operations and in our supply chains are safe, that all
+
+workers are treated with respect and dignity, and that business operations
+
+are environmentally responsible and ethically conducted. Learn more about 
+
+our expectations for manufacturing partners in the Google Supplier Code
+
+of Conduct, our 2019 Responsible Supply Chain Report, and our Conflict 
+
+Minerals Policy.
+
+Product Environmental Report
+
+Pixel 4
+
+Page 5
+
+Learn More
+
+For more information about our environmental sustainability initiatives—
+
+including case studies, white papers, and blogs—please see our 
+
+Sustainability website and our 2019 Environmental Report.
+
+Learn how to recycle your used device in the Google Store Help section of 
+
+our website.
+
+Endnotes
+
+1. 
+
+Google defines its restrictions on harmful substances, including definitions for what Google considers 
+
+to be “free of,” in the Google Restricted Substances Specification. 
+
+2. 
+
+This product is EPEAT registered in the US only.
+
+3.  GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 requirements 
+
+and guidelines for conducting life cycle assessments, and include the production, transportation, use, 
+
+and recycling of the product, accessories, and packaging.
+
+4. 
+
+Level VI is the highest available efficiency rating for power adapters as defined in the International 
+
+Efficiency Marking Protocol for External Power Supplies Version 3.0.
+
+5. 
+
+Average efficiency of power adapter when input and output power is measured at 25%, 50%, 75%, and 
+
+100% of rated output current and averaged. Tested in accordance with the U.S. Department of Energy 
+
+Uniform Test Method for Measuring the Energy Consumption of External Power Supplies.
+
+6. 
+
+Power measured when the power adapter is plugged into an AC power source without being 
+
+connected to the product. Tested in accordance with the U.S. Department of Energy Uniform Test 
+
+Method for Measuring the Energy Consumption of External Power Supplies.
+
+7. 
+
+Power measured with phone connected to cellular and WiFi networks in standby mode with fully 
+
+charged battery and attached to the power adapter. Tested in accordance with the U.S. DOE Uniform 
+
+Test Method for Measuring the Energy Consumption of Battery Chargers. Maintenance mode 
+
+calculated as average power over first nine hrs after charging is complete.
+
+8. 
+
+Based on average charging of previous generation devices. Actual energy consumption will vary by 
+
+user.
+
+9. 
+
+The average residential cost of energy for U.S. households is $0.13 per kWh (source: U.S. Energy 
+
+Information Agency Feb 2019 report).
+
+10. 
+
+The average household cost of energy for consumers in the EU-28 was €0.22 per kWh in the first half 
+
+of 2019 (source: Eurostat Statistics Explained).
+
+11. 
+
+Product material masses are for Pixel 4 only. For the U.S. configuration, an additional 92 g of electronic 
+
+accessories can be included in-box.
+
+Product Environmental Report
+
+Pixel 4
+
+Page 6
+
+

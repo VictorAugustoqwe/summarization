@@ -1,0 +1,378 @@
+Google Pixel 2
+Product environmental report
+
+Model G011A, introduced October 4, 2017Environmental
+
+Sustainability
+
+at Google
+
+At Google, operating in an environmentally sustainable way 
+
+has been a core value from the beginning. As our business 
+
+has evolved to include the manufacturing of electronic 
+
+products, we’ve continually expanded our efforts to 
+
+improve each product’s environmental performance
+
+and minimize Google’s impact on the world around us.
+
+This report details the environmental performance of 
+
+Google Pixel 2 over its full life cycle, from design and
+
+manufacturing through usage and recycling.
+
+Product highlights
+
+The Pixel 2 phone is designed with the following key features to help 
+
+EPEAT registered 
+
+with silver rating 
+
+for sustainability1
+
+reduce its environmental impact:
+
+Mercury-free AMOLED display
+
+Arsenic-free glass
+
+PVC-free
+
+Brominated flame retardant-free
+
+99% paper and fiber-based packaging
+
+Power adapter with Level VI efficiency rating
+
+Standby power less than 0.5 W
+
+Product Environmental ReportPage 2Google Pixel 2, Model G011AGreenhouse gas
+
+(GHG) emissions
+
+The production, transportation, use, and recycling of electronic products 
+
+generate GHG emissions that can contribute to rising global temperatures. 
+
+Google conducts a life cycle assessment on products to identify materials 
+
+and processes that contribute to GHG emissions, with the goal of
+
+minimizing these emissions.
+
+Estimated GHG
+
+Emissions for Pixel 2
+
+(64 GB Model)2
+
+Total GHG emissions over
+
+three-year life cycle:
+66.4 kg CO2e
+
+50.0 kg CO2e 
+
+4.1 kg CO2e
+
+12.2 kg CO2e 
+
+0.1 kg CO2e
+
+Production
+
+Transportation
+
+Customer use
+
+Recycling
+
+75.3%
+
+6.2%
+
+18.3%
+
+0.2%
+
+Energy efficiency
+
+Pixel 2 uses a power adapter with a Level VI efficiency rating3  and
+
+incorporates power-management software to maximize battery-charging 
+
+efficiency and extend battery life during use.
+
+Energy efficiency
+
+Mode
+
+115 V, 60 Hz
+
+230 V, 50 Hz
+
+of Pixel 2
+
+Power adapter average efficiency4
+
+83.5% at 5 V output
+
+82.5% at 5 V output
+
+86.0% at 9 V output
+
+85.9% at 9 V output
+
+Power adapter no-load power5
+
+0.016 W
+
+0.017 W
+
+Standby power (battery maintenance mode)6
+
+0.41 W
+
+0.43 W
+
+Annual energy use estimate7
+
+5.2 kWh
+
+5.5 kWh
+
+Annual cost of energy estimate
+
+US$0.688
+
+€1.169
+
+Product Environmental ReportPage 3Google Pixel 2, Model G011AMaterial use
+
+Pixel 2 is designed to be light and compact. Minimizing the size and
+
+weight of Pixel 2 allows materials to be used more efficiently, thereby
+
+reducing the energy consumed during production and shipping as well
+
+as minimizing the amount of packaging.
+
+Materials used
+
+in Pixel 2
+
+Total materials:
+143 g10
+
+33 g (23.1%)
+
+Aluminum
+
+37 g (25.8%)
+
+Battery
+
+9 g (6.3%)
+
+Miscellaneous
+
+28 g (19.6%)
+
+Electronic components
+
+25 g (17.5%)
+
+Display assembly
+
+11 g (7.7%)
+
+Other metals
+
+Pixel 2 battery
+
+Lithium-ion polymer
+
+Free of cadmium, lead, and mercury
+
+Restricted substances
+
+Historically, many electronic devices contained materials such as
+
+lead, mercury, cadmium, and brominated flame retardants that pose
+
+environmental and health risks. We designed Pixel 2 to meet global
+
+regulations that restrict harmful substances, including the following:
+
+European RoHS Directive restrictions on lead, mercury, cadmium,
+
+hexavalent chromium, polybrominated biphenyls (PBB), and
+
+polybrominated diphenyl ethers (PBDE)
+
+European Battery Directive restrictions on lead, mercury, and
+
+cadmium in batteries
+
+European Packaging Directive restrictions on lead, mercury,
+
+cadmium, and hexavalent chromium in packaging
+
+Product Environmental ReportPage 4Google Pixel 2, Model G011AVoluntary substance
+
+Pixel 2 also meets the following Google voluntary substance restrictions:
+
+restrictions
+
+Mercury-free AMOLED display
+
+Arsenic-free display glass
+
+PVC-free
+
+Brominated flame retardant–free
+
+Packaging
+
+Packaging for Pixel 2 uses 99% paper and fiber-based materials. The 
+
+chipboard material that forms the underlying structural layer of the
+
+box base and lid is made of 100% recycled content. We have designed
+
+the Pixel 2 packaging to minimize its weight and volume, which helps 
+
+conserve natural resources and allows more devices to be transported
+
+in a single shipping container.
+
+Packaging materials
+
+Material
+
+for Pixel 2
+
+(U.S. configuration
+
+retail packaging)
+
+Paper
+
+Plastics
+
+Total packaging
+
+Weight
+
+256 g
+
+2 g
+
+258 g
+
+Ethical sourcing
+
+Google and its subsidiaries are committed to ensuring that working 
+
+conditions in our operations and in our supply chains are safe, that all 
+
+workers are treated with respect and dignity, and that business operations 
+
+are environmentally responsible and ethically conducted. Learn more about 
+
+our expectations for manufacturing partners in the Google Supplier Code 
+
+of Conduct, our 2016 Creating a Responsible Supply Chain report, and our 
+
+Conflict Minerals Policy.
+
+Product Environmental ReportPage 5Google Pixel 2, Model G011ALearn more
+
+For more information about our environmental sustainability initiatives—
+
+including case studies, white papers, and blogs—please see our Environment 
+
+website and our Environmental Report: 2017 Progress Update.
+
+Learn how to recycle your used device in the Google Store Help section
+
+of our website.
+
+Endnotes
+
+1.
+
+This product is EPEAT registered in the United States only.
+
+2.
+
+GHG emissions estimates are calculated in accordance with ISO 14040 and ISO 14044 requirements
+
+and guidelines for conducting life cycle assessments and include the production, transportation, use,
+
+and recycling of the product, accessories, and packaging.
+
+3.
+
+Level VI is the highest available efficiency rating for power adapters as defined in the International
+
+Efficiency Marking Protocol for External Power Supplies Version 3.0.
+
+4.
+
+This is the average efficiency of the power adapter when input and output power is measured at 25%, 50%, 
+
+75%, and 100% of rated output current and averaged as part of testing in accordance with the U.S. Department 
+
+of Energy Uniform Test Method for Measuring the Energy Consumption of External Power Supplies.
+
+5.
+
+Power is measured when the power adapter is plugged into an AC power source without being connected 
+
+to the product. Testing is done in accordance with the U.S. Department of Energy Uniform Test Method for 
+
+Measuring the Energy Consumption of External Power Supplies.
+
+6.
+
+Power is measured with the phone in standby mode with a fully charged battery and while attached to
+
+the power adapter. Testing is done in accordance with the U.S. Department of Energy Uniform Test Method 
+
+for Measuring the Energy Consumption of Battery Chargers.
+
+7.
+
+Estimated energy use is based on fully charging the battery once per day with the phone attached to the 
+
+power adapter for 12 hours and leaving the power adapter plugged into AC power without the phone 
+
+attached (i.e., no load) for 12 hours. Testing is done in accordance with the U.S. Department of Energy 
+
+Uniform Test Method for Measuring the Energy Consumption of Battery Chargers.
+
+8.
+
+The average residential cost of energy for U.S. households is $0.13 per kWh (source: U.S. Energy
+
+Information Agency May 2017 report).
+
+9.
+
+The average household cost of energy for consumers in the European Union was €0.211 per kWh in
+
+the second half of 2015 (source: Eurostat Statistics Explained).
+
+10.
+
+Product material weights are for Google Pixel 2 only. For the U.S. configuration, an additional 91 g
+
+of electronic accessories can be included in-box.
+
+Product Environmental ReportPage 6Google Pixel 2, Model G011A
