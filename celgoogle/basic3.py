@@ -54,5 +54,5 @@ sequences = pipeline(
 )
 
 for seq in sequences:
-    print(f"Prompt: {seq['prompt']}")
+    print(seq)
     print(f"Result: {seq['generated_text']}")
