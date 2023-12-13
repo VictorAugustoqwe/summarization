@@ -1,0 +1,320 @@
+Product Environmental Report
+
+Galaxy S23+
+
+2023.02.01
+
+At Samsung, we work to embed eco-conscious technology and
+innovation in all of our products. By considering sustainability
+throughout the product life cycle, we aim to inspire our
+customers to join us in our journey of building a better tomorrow.
+
+UL certified only for the US configuration. [1]
+
+* 
+
+Product Carbon Footprint
+
+To understand the environmental impacts of our products, at Samsung Electronics,
+including the sourcing, production,
+we assess a product’s entire life cycle,
+distribution, product use and recycling phases.
+
+At the production stage, we are aiming to expand the development and application
+of recycled materials with a lower carbon footprint. At the distribution stage, we are
+working to minimize packaging volume and weight to reduce carbon emissions.
+Through initiatives like improving the energy efficiency of chargers, we are trying to
+improve the environmental impact at the use stage.
+
+Recycling
+
+Sourcing
+
+Galaxy S23+
+Life Cycle Assessment
+
+58.8
+
+kg CO2 eq. [2]
+
+Production
+
+Use
+
+Distribution
+
+Galaxy S23+ life cycle carbon emissions
+
+Production
+83.7 %
+10%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Use
+9.9 %
+
+* based on UK configuration  [3]
+
+2
+
+Distribution
+6.1 %
+
+Disposal
+0.3 %
+
+Sourcing
+
+Across the product lifecycle, from raw material sourcing to
+disposal and recycling, we are continuing our efforts to
+create a circular economy.
+
+To build toward a circular system, we are using recycled
+materials and collecting e-waste to extract materials for
+reuse. By 2030, we aim for 50% of the plastic used in our DX
+products to incorporate recycled resin. By 2050, we
+anticipate to see this figure increase to 100%.
+
+Samsung Galaxy S23+ has a wider variety of recycled materials than any other Galaxy
+smartphone, including pre-consumer recycled aluminum and glass and post-consumer
+recycled plastics sourced from discarded fishing nets, PET bottles and water barrels :
+
+Plastic
+The speaker module lower is manufactured using a minimum of 20% repurposed
+plastic, by weight, sourced from discarded fishing nets and water barrels. The
+external antenna lines are made from a minimum of 10% plastic, by weight, from
+recycled PET bottles. The deco film used in the back glass contains a minimum of
+80%, by weight, recycled PET. [4]
+
+Aluminum
+In the volume keys, side key, and SIM card tray components of the device, a minimum
+of 28% of the aluminum, by weight,
+is recovered scrap sourced from the
+manufacturing processes.
+
+Glass
+The Galaxy S23+ is the first device to use Corning® Gorilla® Glass Victus® 2, which
+contains an average of 22% pre-consumer recycled glass for front screen and back
+cover.
+
+To prevent hazardous substances from entering our products, we inspect
+manufactured parts and raw materials rigorously through our chemical management
+system.
+
+Our Standards for the Control of Substances Used in Products [5] are based on global
+regulations and standards, and we voluntarily established reduction plans for the use
+of potentially hazardous substances, such as polyvinyl chloride(PVC), brominated
+flame retardants(BFRs), beryllium, and antimony, as well as legally regulated
+substances.
+
+Chemical Mgmt.
+
+3
+
+Production
+
+We are expanding the use of renewable energy at our
+business sites around the world.
+
+Energy infrastructure and regulations, which vary widely by
+jurisdiction, require region-specific transition plans.
+
+Renewable 
+Energy
+
+Safety and health 
+certification (ISO) at 
+our production sites
+
+100%
+
+We plan to run all operations of the DX(Device eXperience)
+Division on renewable energy by 2027. [6]
+
+All of our business sites where Galaxy S23+ is produced have
+attained ISO14001(environmental management system) and
+ISO50001(energy management system) certifications. [7]
+
+Company-wide, we plan to obtain a platinum-level Zero
+Waste to Landfill Certification, issued by safety certification
+organization Underwriters Laboratories(UL), for all global
+operations by 2025.
+
+4
+
+Distribution
+
+To reduce the environmental
+impact of our product
+packaging, we are replacing plastic packaging and protective
+films with paper and recycled materials to the extent
+possible.
+
+We are also reducing the volume and weight of packaging to
+mitigate Greenhouse Gas emissions in the transportation and
+shipping process.
+
+Eco 
+Packaging
+
+Our goal is to eliminate all single-use plastics in mobile
+product packaging by 2025. Since 2017, we have been
+exploring ways to eliminate single-use plastics in packaging
+by assessing every aspect of packaging design, down to the
+smallest details. [8]
+
+Plastic 
+In packaging
+
+1.7%
+
+As a result, Galaxy S23+ contains only 1.7% of plastic in
+terms of the total weight of packaging. [9]
+
+Reduced plastic 
+in packaging
+
+96.8%
+
+Compared to Galaxy S7, when we began our plastic
+packaging elimination initiative, we reduced the use of
+plastic in packaging for Galaxy S23+ by 96.8%. [10]
+
+Recycled 
+paper
+
+100%
+
+Paper used for the Galaxy S23+ packaging box is 100%
+recycled paper. [11]
+
+5
+
+Use
+
+Environmental experts participate throughout product
+development at Samsung Electronics so that customer can
+more sustainably use our devices.
+
+During the product development phase, our stress tests help
+ensure the longevity and consistent performance of our
+products. This enables users to enjoy our products for longer
+periods of time.
+
+Repair & 
+Reuse
+
+Repairability is one of our main priorities in product
+development. In August 2022, we expanded the number of
+authorized and independent service providers, started a self-
+repair program in the US and will continue to expand this
+program.
+
+Security Update &
+OS Upgrade [12]
+
+5 yrs & 4 gens
+
+Galaxy S23+ has IP68 [13] water
+resistance and dust
+protection, and we provide four generations of OS upgrades
+and five years of security updates .
+
+6
+
+Recycling
+
+To promote the circular economy and a low-carbon society,
+we are expanding responsible recycling globally.
+
+Samsung's local
+recycling programs provide collection
+services tailored to each region for customers disposing e-
+waste, and we take back all electrical and electronic waste
+regardless of product brand.
+
+Collection
+
+Samsung Electronics has installed used mobile phone and
+accessory collection boxes at repair centers in 34 countries
+including the US, Brazil, and Spain, to take back e-waste
+from customers. We plan to expand the scope of our e-waste
+collection system from approximately 50 countries to about
+180 countries by 2030.
+Collected electronic goods are sorted, pre-processed, and
+shredded to be recycled as materials. Some of the materials
+like plastic are used for new product manufacturing. We also
+internally operate Requirements for Recycling Service
+Partners that specify requirements such as compliance
+obligations related to EHS-related laws and regulations,
+supplier management, and prohibition of
+illegal waste
+exportation.
+
+7
+
+Endnotes
+
+1. Galaxy S23 series devices sold, distributed, and/or produced for the US market have received UL ECOLOGO
+Certification in accordance with UL110 Standard for Sustainability for Mobile Phones.
+https://www.ul.com/el
+
+2. The Carbon Trust of the UK calculated greenhouse gases generated in the entire process from product
+production to disposal in accordance with the Carbon Footprint Evaluation Standard(PAS 2050) and obtained
+the 'CO2 Measured' certification to evaluate product carbon emissions. Based on the certification results,
+Samsung Electronics continues to make efforts in the product development stage to improve the
+environmental characteristics of the product.
+
+- PAS 2050:2011 – Specification for the assessment of the life cycle greenhouse gas emissions of
+goods and services
+- Product Carbon Footprints : Requirements for Certification v2
+- Database : Footprint Expert v4.4, Ecoinvent 3.8
+
+3. System boundary of Life Cycle Assessment
+
+- Production : Pre-manufacturing(Parts and materials constituting the products and its transportation)
+
+and Product assembly by Samsung Electronics / Distribution : From Vietnam to UK / Use : 3 years
+use / Disposal : Waste treatment of parts and material
+
+4. Recycled materials have undergone Environmental Claim Validation(ECV) by UL.
+Method : Environmental Claim Validation Procedure for Recycled content, UL 2809 – Fifth Edition
+
+- contains minimum 20% PCM : Top speaker module upper & lower, Bottom speaker module upper, Volume
+
+key, Side key
+
+- contains minimum 5% OBP + 15% PCM : Bottom speaker module lower
+- contains minimum 10% PCM : Front insert
+- contains minimum 80 % PCM : Black Glass Deco Film
+* OBP : Ocean Bound Plastic
+* PCM : Post Consumer Material
+
+5. Standards for the Control of Substances Used in Products
+https://www.samsung.com/us/sustainability/environment/environment-data/
+
+6. Samsung Electronics has joined RE100, in a collaborative effort to reduce indirect carbon emissions from
+power consumption, and aims to match electric power needs with renewable energy by 2050 for all
+operations globally. As part of this initiative, Samsung Electronics plans to run all operations outside of Korea
+as well as the DX Division on renewable energy within five years. The company’s renewable energy sourcing
+methods will include, but not limited to, signing power purchase agreements(PPA), purchasing renewable
+energy certificates and participating in green pricing programs.
+
+7. Our factory sites are required to meet international standards for ISO14001(environmental management
+system) and ISO50001(energy management system) certifications. We also strive to ensure that our suppliers
+have robust occupational health and safety management systems in place by encouraging them to attain
+certification for international standards and reflect related outcomes in the comprehensive supplier
+evaluations. As of 2021, all business sites of Samsung Electronics have attained the certifications and 86% of
+suppliers subject to comprehensive evaluation of partner have acquired the certification.
+
+8. History of Galaxy S Eco-Conscious Packaging
+https://news.
