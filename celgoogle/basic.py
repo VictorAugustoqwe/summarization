@@ -58,7 +58,7 @@ def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath)
         for sequence in sequences:
             if ending in sequence['generated_text']:
                 result = (sequence['generated_text'].split(ending))[1]
-                writefilename = outputDirectoryPath + '/' + filename.split('.')[0] + '-res.txt' 
+                writefilename = outputDirectoryPath + '/' + filepath.split('.')[0] + '-res.txt' 
                 print(result)
                 print(writefilename)
                 with open(writefilename, 'w') as file:
