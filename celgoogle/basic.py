@@ -31,11 +31,12 @@ def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath)
 
     prompt = PromptTemplate(input_variables=["environmentalReport"], template=template)
 
-
     files = os.listdir(inputDirectoryPath)
+    files = [inputDirectoryPath + "/" + file for file in files]
 
-    for filename in files:
-        filepath = inputDirectoryPath + "/" + filename
+    for filepath in files:
+        if(filepath.split('.')[1] != 'txt'):
+            continue
         print('filepath - ',filepath)
 
         environmentalReport =  None
