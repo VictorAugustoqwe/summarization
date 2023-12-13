@@ -65,4 +65,4 @@ def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath)
                 with open(writefilename, 'w') as file:
                     file.write(result)
 
-runPromptsAndSaveResultsInDirectory('txts','output3')
+runPromptsAndSaveResultsInDirectory('txts','output4')
