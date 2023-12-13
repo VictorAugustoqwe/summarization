@@ -1,0 +1,288 @@
+iPhone 5s
+Environmental Report
+
+Apple and the Environment
+
+Apple believes that improving the environmental performance of our business 
+starts with our products. The careful environmental management of our products 
+throughout their life cycles includes controlling the quantity and types of materials 
+used in their manufacture, improving their energy efficiency, and designing them 
+for better recyclability. The information below details the environmental performance 
+of iPhone 5s as it relates to climate change, energy efficiency, material efficiency, 
+and restricted substances.*
+
+Climate Change
+
+Greenhouse gas emissions have an impact on the planet’s balance of land, ocean, and air temperatures. 
+Most of Apple’s corporate greenhouse gas emissions come from the production, transport, use, and 
+recycling of its products. Apple seeks to minimize greenhouse gas emissions by setting stringent design-
+related goals for material and energy efficiency. The chart below provides the estimated greenhouse gas 
+emissions for iPhone 5s over its life cycle. 
+
+Greenhouse Gas Emissions for iPhone 5s
+
+65 
+
+kg CO2e 
+
+Total greenhouse 
+gas emissions
+
+  1%  ●  Recycling 
+
+  5%  ●  Transport 
+
+  14%  ●  Customer use 
+
+  80%  ●  Production
+
+Date introduced
+September 10, 2013
+
+Environmental
+Status Report
+
+iPhone 5s is designed with the 
+following features to reduce 
+environmental impact: 
+
+• Arsenic-free display glass 
+
+• Mercury-free LED-backlit display  
+
+• Brominated ﬂame retardant–free 
+
+• PVC-free 
+
+• Recyclable aluminum enclosure 
+
+• Power adapter that outperforms 
+strictest global energy eﬃciency 
+standards
+
+Environmental Report  |  iPhone 5s  |  September 2013 
+
+                                                                                                       1
+
+ 
+    
+   
+  
+    
+   
+  
+  
+   
+  
+  
+   
+  
+Battery chemistry 
+
+•  Lithium-ion polymer 
+
+•  Free of lead, cadmium, and mercury 
+
+Energy Eﬃciency
+
+iPhone 5s uses power-efficient components and software that intelligently manages power consumption. 
+In addition, the Apple USB Power Adapter outperforms the stringent requirements of the ENERGY STAR® 
+specification for external power supplies. The following table details the energy efficiency of the Apple 
+USB Power Adapter. 
+
+Energy Eﬃciency of the Apple USB Power Adapter
+
+Mode
+
+100V
+
+Power adapter no-load
+
+0.011W
+
+Power adapter eﬃciency
+
+75.0%
+
+115V
+
+0.011W
+
+75.0%
+
+230V
+
+0.011W
+
+74.0%
+
+Material Eﬃciency
+
+Apple’s ultracompact product and packaging designs lead the industry in material efficiency. Reducing 
+the material footprint of a product helps maximize shipping efficiency. It also helps reduce energy 
+consumed during production and material waste generated at the end of the product’s life. iPhone 5s is 
+made of aluminum and other materials highly desired by recyclers. The chart below details the materials 
+used in iPhone 5s. 
+
+Material Use for iPhone 5s
+
+Material 
+Use
+
+  25g  ●  Battery 
+
+  21g  ●  Aluminum 
+
+  18g  ●  Stainless steel 
+
+  18g  ●  Glass 
+
+  12g  ●  Circuit boards 
+
+  11g  ●  Display 
+
+5g  ●  Plastic 
+
+2g  ●  Other 
+
+Environmental Report  |  iPhone 5s  |  September 2013 
+
+                                                                                                       2
+
+ 
+   
+   
+  
+   
+   
+  
+   
+   
+  
+   
+   
+  
+   
+   
+  
+    
+   
+  
+ 
+     
+   
+  
+ 
+     
+   
+  
+U.S. retail packaging of iPhone 5s 
+is 26 percent lighter and consumes 
+41 percent less volume than the 
+first-generation iPhone packaging.
+
+Packaging
+
+The packaging for iPhone 5s is highly recyclable, and its retail box is made primarily from bio-based 
+materials, including fiberboard containing 90 percent post-consumer recycled content. In addition, the 
+iPhone 5s packaging is extremely material efficient, allowing 80 percent more units to be transported in 
+an airline shipping container compared to the first-generation iPhone. The following table details the 
+materials used in iPhone 5s packaging. 
+
+Packaging Breakdown for iPhone 5s (U.S. Conﬁgurations)
+
+Material
+
+Retail box
+
+Paper (ﬁberboard, paperboard)
+
+High-impact polystyrene
+
+Other plastics
+
+116g
+
+24g
+
+4g
+
+Restricted Substances
+
+Apple has long taken a leadership role in restricting harmful substances from its products and packaging. 
+As part of this strategy, all Apple products comply with the strict European Directive on the Restriction 
+of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment, also known as the 
+RoHS Directive. Examples of materials restricted by RoHS include lead, mercury, cadmium, hexavalent 
+chromium, and the brominated ﬂame retardants (BFRs) PBB and PBDE. iPhone 5s goes even further 
+than the requirements of the RoHS Directive by incorporating the following more aggressive restrictions: 
+
+• Arsenic-free display glass 
+
+• Mercury-free LED-backlit display 
+
+• BFR-free 
+
+• PVC-free 
+
+Recycling
+
+Through ultra-efficient design and the use of highly recyclable materials, Apple has minimized material 
+waste at the product’s end of life. In addition, Apple offers and participates in various product take-back 
+and recycling programs in 95 percent of the regions where Apple products are sold. All products are 
+processed in the country or region in which they are collected. For more information on how to take 
+advantage of these programs, visit www.apple.com/recycling. 
+
+Environmental Report  |  iPhone 5s  |  September 2013 
+
+                                                                                                       3
+
+ 
+Deﬁnitions
+
+Greenhouse gas emissions: Estimated emissions are calculated in accordance with guidelines 
+and requirements as speciﬁed by ISO 14040 and ISO 14044. Calculation includes emissions for 
+the following life-cycle phases contributing to Global Warming Potential (GWP 100 years) in CO2 
+equivalency factors (CO2e): 
+
+• Production: Includes the extraction, production, and transportation of raw materials, as well as the 
+
+manufacture, transport, and assembly of all parts and product packaging.  
+
+• Transport: Includes air and sea transportation of the finished product and its associated packaging 
+
+from manufacturing site to continental distribution hubs. Transport of products from distribution hubs 
+to end customer is not included. 
+
+• Customer Use: User power consumption assumes a three-year period. Product use scenarios are 
+
+modeled on data that reflects intensive daily use of the product. Geographic differences in the power 
+grid mix have been accounted for at a continental level. 
+
+• Recycling: Includes transportation from collection hubs to recycling centers, and the energy used in 
+
+mechanical separation and shredding of parts. 
+
+Energy eﬃciency terms: The energy efficiency values for the Apple USB Power Adapter are based on 
+the ENERGY STAR Program Requirements for Single Voltage External AC-DC and AC-AC Power Supplies. 
+For more information, visit www.energystar.gov. 
+
+• Power adapter no-load: Condition in which the Apple USB Power Adapter is connected to AC power, 
+
+but not connected to iPhone. 
+
+• Power adapter eﬃciency: Average of the power adapter’s measured efficiency when tested at 
+100 percent, 75 percent, 50 percent, and 25 percent of the power adapter’s rated output current. 
+
+Restricted substances: Apple defines a material as BFR-free and PVC-free if it contains less than 900 parts 
+per million (ppm) of bromine and of chlorine. 
+
+(cid:1)Product evaluation based on U.S. configurations of iPhone 5s 32GB. 
+
+© 2015 Apple Inc. All rights reserved.
+
+Environmental Report  |  iPhone 5s  |  September 2013 
+
+                                                                                                       4
+
+ 
+

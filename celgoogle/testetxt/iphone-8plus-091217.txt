@@ -1,0 +1,311 @@
+iPhone 8 Plus 
+Environmental Report 
+
+Apple and the Environment 
+
+Apple believes that improving the environmental performance of our  
+business starts with our products. The careful environmental management  
+of our products throughout their life cycles includes controlling the quantity 
+and types of materials used in their manufacture, improving their energy 
+efficiency, and designing them for better recyclability. The information below 
+details the environmental performance of iPhone 8 Plus as it relates to climate 
+change, energy efficiency, material efficiency, and restricted substances.1 
+
+Climate Change 
+
+Greenhouse gas emissions have an impact on the planet’s balance of land, ocean, and air 
+temperatures. Most of Apple’s greenhouse gas emissions come from the production, transport,  
+
+use, and recycling of our products. Apple seeks to minimize product-related greenhouse gas 
+emissions by setting stringent design-related goals for material and energy efficiency, and by 
+increasing use of renewable energy in our supply chain. For example, Apple utilizes aluminum that  
+is smelted using hydroelectricity rather than fossil fuels, and has reengineered the manufacturing 
+
+process to reincorporate scrap aluminum. As a result, every gram of aluminum used in iPhone 8 Plus 
+generates 11 percent fewer greenhouse gas emissions than the aluminum used in iPhone 7 Plus, and  
+
+83 percent less than the aluminum used in iPhone 6.  
+
+In addition, Apple’s Supplier Clean Energy program has enabled direct iPhone suppliers to develop 
+
+their own renewable energy projects to further reduce greenhouse gas emissions. These projects 
+resulted in nearly a 5 percent decrease in the greenhouse gas emissions from iPhone production, 
+compared to what they would have been without renewable energy.2 The chart below provides the 
+estimated greenhouse gas emissions for iPhone 8 Plus over its life cycle.3 
+
+Greenhouse Gas Emissions for iPhone 8 Plus—64GB model 
+
+68  
+kg CO2e 
+
+Total greenhouse  
+gas emissions
+
+  79%  ⦁  Production 
+  17%  ⦁  Customer use 
+  3%  ⦁  Transport 
+1%  ⦁  Recycling
+
+Environmental Report  |  iPhone 8 Plus  |  September 2017 
+
+!1
+
+Date introduced 
+September 12, 2017
+
+Environmental 
+Status Report 
+
+iPhone 8 Plus is designed with the 
+following features to reduce  
+environmental impact: 
+
+• Arsenic-free display glass 
+
+• Mercury-free  
+
+• Brominated flame retardant–free 
+
+• PVC-free 
+
+• Beryllium-free 
+
+• Recyclable and low-carbon 
+
+aluminum 
+
+• 100 percent of packaging fibers 
+are sourced from responsibly 
+managed forests, bamboo, waste 
+sugarcane, or recycled paper 
+
+Achieves a Gold rating  
+from EPEAT4
+
+ 
+ 
+ 
+ 
+ 
+Energy Efficiency 
+
+iPhone 8 Plus uses power-efficient components and software that intelligently manages power 
+
+consumption. The following table details the energy efficiency of the Apple USB Power Adapter. 
+
+Battery design 
+
+iPhone 8 Plus features a lithium-ion 
+polymer battery chemistry that is free of 
+lead, cadmium, and mercury. This allows 
+for an extended lifespan, and is designed  
+to deliver up to 500 full charge and 
+discharge cycles before it reaches 
+80 percent of its original capacity. 
+
+Energy Efficiency of the Apple USB Power Adapter 
+
+Mode
+
+100V
+
+Power adapter, no-load
+
+0.014W
+
+Power adapter efficiency
+
+74.3%
+
+115V
+
+0.014W
+
+74.3%
+
+230V
+
+0.012W
+
+73.1%
+
+Material Efficiency 
+Apple’s ultracompact product and packaging designs lead the industry in material efficiency. 
+Reducing the material footprint of a product helps maximize shipping efficiency. It also helps reduce 
+
+energy consumed during production and material waste generated at the end of the product’s life. 
+iPhone 8 Plus is made of aluminum and other materials highly desired by recyclers. In addition, 
+
+plastics used in the internal antenna and receiver are made with 35 percent post-consumer recycled 
+content, which reduces dependence on finite resources. The chart below details the materials used 
+in iPhone 8 Plus.5 
+
+Material Use for iPhone 8 Plus 
+
+Material  
+Use
+
+  44g  ⦁  Glass 
+  42g  ⦁  Stainless steel 
+  37g  ⦁  Battery 
+  33g  ⦁  Display 
+  16g  ⦁  Aluminum 
+  15g  ⦁  Circuit boards 
+  8g  ⦁  Plastics 
+7g  ⦁  Other 
+
+Environmental Report  |  iPhone 8 Plus  |  September 2017 
+
+!2
+
+ 
+ 
+ 
+ 
+ 
+Packaging 
+
+The packaging for iPhone 8 Plus is highly recyclable, and 100 percent of the fiber in its retail box is 
+
+either from recycled content, agricultural by-products, or responsibly managed forests. Through the 
+reduction of plastics in the packaging, the greenhouse gas emissions associated with the packaging 
+
+of iPhone 8 Plus are 54 percent less than those of iPhone 6s Plus. The following table details the 
+materials used in iPhone 8 Plus packaging.1 
+
+U.S. retail packaging of iPhone 8 Plus 
+contains 81 percent less plastic than 
+iPhone 6s Plus packaging and contains 
+52 percent recycled content.
+
+Packaging Breakdown for iPhone 8 Plus 
+
+Material
+
+Fiber (fiberboard, paperboard, non-wood fiber)
+
+Plastic film
+
+Retail box
+
+190g
+
+9g
+
+Restricted Substances 
+
+Apple has long taken a leadership role in restricting harmful substances from our products and 
+
+packaging. As part of this strategy, all Apple products comply with the strict European Directive on 
+the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment, 
+
+also known as the RoHS Directive. Examples of materials restricted by RoHS include lead, mercury, 
+cadmium, hexavalent chromium, and the brominated flame retardants (BFRs) PBB and PBDE.  
+
+iPhone 8 Plus goes even further than the requirements of the RoHS Directive by incorporating the 
+following more aggressive restrictions: 
+
+• Arsenic-free display glass 
+
+• Mercury-free LED-backlit display 
+
+• BFR-free 
+
+• PVC-free 
+
+• Beryllium-free 
+
+Recycling 
+
+Through ultra-efficient design and the use of highly recyclable materials, Apple has minimized material 
+waste at the product’s end of life. In addition, Apple offers and participates in various product take-
+
+back and recycling programs in 99 percent of the countries where Apple products are sold, including 
+at all Apple Stores. All products are processed in the country or region in which they are collected. For 
+more information on how to recycle your products at end of life, visit www.apple.com/recycling. 
+
+Environmental Report  |  iPhone 8 Plus  |  September 2017 
+
+!3
+
+Definitions 
+
+Electronic Product Environmental Assessment Tool (EPEAT): A program that ranks mobile 
+
+phones based on environmental attributes in accordance with UL 110. For more information, visit 
+www.epeat.net. 
+
+Greenhouse gas emissions: Estimated emissions are calculated in accordance with guidelines  
+and requirements as specified by ISO 14040 and ISO 14044. Calculation includes emissions for  
+
+the following life-cycle phases contributing to Global Warming Potential (GWP 100 years) in CO2 
+equivalency factors (CO2e): 
+
+• Production: Includes the extraction, production, and transportation of raw materials, as well  
+
+as the manufacture, transport, and assembly of all parts and product packaging.  
+
+• Transport: Includes air and sea transportation of the finished product and its associated 
+
+packaging from manufacturing site to regional distribution hubs. Transport of products from 
+distribution hubs to end customer is modeled using average distances based on regional 
+geography. 
+
+• Customer use: Apple conservatively assumes a three-year period for power use by first owners. 
+Product use scenarios are based on historical customer use data for similar products. Geographic 
+differences in the power grid mix have been accounted for at a regional level. 
+
+• Recycling: Includes transportation from collection hubs to recycling centers, and the energy  
+
+used in mechanical separation and shredding of parts. 
+
+Energy efficiency terms: The energy efficiency values are based on the following conditions. 
+
+• Power adapter, no-load: Condition in which the Apple USB Power Adapter with the Lightning to 
+
+USB Cable (1m) is connected to AC power, but not connected to iPhone. 
+
+• Power adapter efficiency: Average of the Apple USB Power Adapter with the Lightning to  
+
+USB Cable (1m) measured efficiency when tested at 100 percent, 75 percent, 50 percent, and  
+25 percent of the power adapter’s rated output current. 
+
+Restricted substances: Apple defines a material as BFR-free and PVC-free if it contains less than 
+900 parts per million (ppm) of bromine and of chlorine. Apple defines a material as beryllium-free if 
+
+it contains less than 1000 parts per million (ppm) of beryllium. A complete list of Apple’s restrictions 
+on hazardous substances is available at www.apple.com/environment/reports.
+
+1. Product evaluations based on U.S. configurations of iPhone 8 Plus 64GB.  
+
+2.Greenhouse gas emissions reductions associated with the Supplier Clean Energy program were calculated relative to default 
+
+grid emissions in the supplier’s country or region, based on best available data. 
+
+3.Greenhouse gas emissions vary according to the configuration of iPhone 8 Plus. The following table details the estimated 
+
+greenhouse gas emissions for U.S. configurations of iPhone 8 Plus over its life cycle. 
+
+Configuration
+
+iPhone 8 Plus 64GB
+
+iPhone 8 Plus 256GB
+
+Greenhouse Gas Emissions
+
+68 kg CO2e
+
+82 kg CO2e
+
+4.iPhone 8 Plus achieved a Gold rating from EPEAT in the United States and Canada. 
+
+5.Excludes Apple Lightning to USB Cable and Apple USB Power Adapter. Mass will vary by configuration. 
+
+© 2017 Apple Inc. All rights reserved.
+
+Environmental Report  |  iPhone 8 Plus  |  September 2017 
+
+!4
+
+
