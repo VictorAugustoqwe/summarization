@@ -1,8 +1,9 @@
 import transformers
 import torch
 from langchain.prompts import PromptTemplate
+import os
 
-def runPromptsAndSaveResultsInDirectory(outputDirectoryPath):
+def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath):
     model = "meta-llama/Llama-2-7b-chat-hf"
     tokenizer = transformers.AutoTokenizer.from_pretrained(model)
     pipeline = transformers.pipeline(
@@ -31,17 +32,14 @@ def runPromptsAndSaveResultsInDirectory(outputDirectoryPath):
     prompt = PromptTemplate(input_variables=["environmentalReport"], template=template)
 
 
-    files = ['pixel-2-100417.txt', 'pixel-3xl-100918.txt', 'pixel-4xl-102419.txt', 'pixel-6a-072022.txt', 'pixel-8-102023.txt',
-    'pixel-2xl-100417.txt', 'pixel-4-102419.txt', 'pixel-5-102020.txt', 'pixel-7-102022.txt', 'pixel-8-pro-102023.txt',
-    'pixel-3-100918.txt', 'pixel-4a-102020.txt', 'pixel-5a-with-5g-082021.txt', 'pixel-7a-052023.txt', 'pixel-fold-062023.txt',
-    'pixel-3a-100918.txt', 'pixel-4a-5g-102020.txt', 'pixel-6-102021.txt', 'pixel-7-pro-102022.txt']
-
+    files = os.listdir(inputDirectoryPath)
 
     for filename in files:
-        print('filename - ',filename)
+        filepath = inputDirectoryPath + "/" + filename
+        print('filepath - ',filepath)
 
         environmentalReport =  None
-        with open(filename, 'r') as file:
+        with open(filepath, 'r') as file:
             environmentalReport = file.read()
 
         environmentalReportPrompt = prompt.format(environmentalReport=environmentalReport)
@@ -65,4 +63,4 @@ def runPromptsAndSaveResultsInDirectory(outputDirectoryPath):
                 with open(writefilename, 'w') as file:
                     file.write(result)
 
-runPromptsAndSaveResultsInDirectory('output3')
+runPromptsAndSaveResultsInDirectory('txts','output3')
