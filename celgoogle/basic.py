@@ -35,7 +35,7 @@ def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath)
     files = os.listdir(inputDirectoryPath)
 
     for filename in files:
-        filepath = inputDirectoryPath + "/" + file
+        filepath = inputDirectoryPath + "/" + filename
         if(filepath.split('.')[1] != 'txt'):
             continue
         print('filepath - ',filepath)
