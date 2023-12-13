@@ -31,10 +31,11 @@ def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath)
 
     prompt = PromptTemplate(input_variables=["environmentalReport"], template=template)
 
-    files = os.listdir(inputDirectoryPath)
-    files = [inputDirectoryPath + "/" + file for file in files]
 
-    for filepath in files:
+    files = os.listdir(inputDirectoryPath)
+
+    for filename in files:
+        filepath = inputDirectoryPath + "/" + file
         if(filepath.split('.')[1] != 'txt'):
             continue
         print('filepath - ',filepath)
@@ -58,7 +59,7 @@ def runPromptsAndSaveResultsInDirectory(inputDirectoryPath, outputDirectoryPath)
         for sequence in sequences:
             if ending in sequence['generated_text']:
                 result = (sequence['generated_text'].split(ending))[1]
-                writefilename = outputDirectoryPath + '/' + filepath.split('.')[0] + '-res.txt' 
+                writefilename = outputDirectoryPath + '/' + filename.split('.')[0] + '-res.txt' 
                 print(result)
                 print(writefilename)
                 with open(writefilename, 'w') as file:
